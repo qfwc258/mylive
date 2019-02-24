@@ -541,16 +541,28 @@
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8"
         },
         {
+            "itemid": "uid03",
+            "name": "宝莲灯",
+            "num": "0091",
+            "urllist": "http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8"
+        },
+          {
+            "itemid": "uid03",
+            "name": "轩辕剑",
+            "num": "0092",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8"
+        },
+        {
             "itemid": "uid04",
             "name": "经典影视HD",
-            "num": "0091",
+            "num": "0093",
             "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
           {
             "itemid": "uid04",
-            "name": "无线功夫",
-            "num": "0092",
-            "urllist": "http://push.zhibo.news.cn/live/abj2.flv"
+            "name": "漫威电影",
+            "num": "0094",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         }
       ],
     "type": [
