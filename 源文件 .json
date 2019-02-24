@@ -2,13 +2,13 @@
     "live": [
         {
             "itemid": "uid00",
-            "name": "CCTV1-综合",
+            "name": "CCTV-1综合",
             "num": "0001",
             "urllist": "http://39.134.134.115:80/wh7f454c46tw3263180889_145684096/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=sxEIUWIgvyU6nlTJjpSKKiFE7%2F8iCkgEQEaXazynJSo14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsbf3pltZqxOEr5vy%2FGkSFDQELCZ5VFqe%2BHswQr31%2Fca1A%3D%3D%3A20181012125822%2C54C57AADF598%2C183.93.146.195%2C20181012125822%2C10000100000000050000000002171815%2C10D8DB09DE73F72E0AC285893FF50DE8%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539319961&from=1&hms_devid=3563#http://111.40.205.72/PLTV/88888888/224/3221225587/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/"
         },
         {
             "itemid": "uid00",
-            "name": "CCTV2-财经",
+            "name": "CCTV-2财经",
             "num": "0002",
             "urllist": "http://39.134.134.58:80/wh7f454c46tw4000157581_1906143853/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYRHMRPgOma8nTTkoFc8zp%2FA%2FGmgwC0QIut33P9OQnJWQ%3D%3D%3A20181012130418%2C54C57AADF598%2C183.93.146.195%2C20181012130418%2C10000100000000050000000002171859%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539320240&from=1&hms_devid=3443#rtsp://119.39.49.116:554/ch00000090990000001223.sdp?vcdnid=001#http://39.135.32.28:6610/000000001000/1000000001000012442/index.m3u8?#rtsp://113.136.42.42:554/PLTV/88888888/224/3221226134/10000100000000060000000001794850_0.smil#rtmp://ivi.bupt.edu.cn:1935/livetv/cctv2hd#http://slave.jscnwx.com:13164/playurl?protocol=hls&playtype=live&auth=no&accesstoken=R5AFFA7BBU308EE0ABK7735A70CI146FE473PBM3143450WDE2A287F8B2&&playtoken=ABCDEFGH&programid=4200000018"
         },
@@ -44,7 +44,7 @@
         },
         {
             "itemid": "uid00",
-            "name": "CCTV7-军事农业",
+            "name": "CCTV-7军事农业",
             "num": "0008",
             "urllist": "http://39.134.134.116:80/wh7f454c46tw2483264172_1297918979/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYeoIpnpCkGcvR83oqyWsWQIk4l5F7RRaxAbR51zLjKGw%3D%3D%3A20181012131400%2C54C57AADF598%2C183.93.146.195%2C20181012131400%2C10000100000000050000000002172002%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321097&from=1&hms_devid=3563#rtsp://119.39.49.116:554/ch00000090990000001209.sdp?vcdnid=001#http://39.135.32.28:6610/000000001000/1000000001000017218/index.m3u8?#rtsp://113.136.42.42:554/PLTV/88888888/224/3221226130/10000100000000060000000001794846_0.smil#rtmp://ivi.bupt.edu.cn:1935/livetv/cctv7hd#http://slave.jscnwx.com:13164/playurl?protocol=hls&playtype=live&auth=no&accesstoken=R5AFFA7BBU308EE0ABK7735A70CI146FE473PBM3143450WDE2A287F8B2&&playtoken=ABCDEFGH&programid=4200000024"
         },
