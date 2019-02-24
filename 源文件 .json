@@ -521,6 +521,18 @@
             "name": "复仇者联盟",
             "num": "0087",
             "urllist": "http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "TVB星河频道",
+            "num": "0088",
+            "urllist": "http://push.zhibo.news.cn/live/vbj2.flv"
+        },
+          {
+            "itemid": "uid04",
+            "name": "无线功夫",
+            "num": "0089",
+            "urllist": "http://push.zhibo.news.cn/live/abj2.flv"
         }
       ],
     "type": [
@@ -539,6 +551,10 @@
          {
             "id": "uid03",
             "name": "电影轮播"
+        },
+         {
+            "id": "uid04",
+            "name": "测试频道"
         }
     ]
 }
