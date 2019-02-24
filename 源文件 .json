@@ -532,19 +532,19 @@
             "itemid": "uid03",
             "name": "笑傲江湖",
             "num": "0089",
-            "urllist": "https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8"
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8"
         },
          {
             "itemid": "uid03",
             "name": "齐天大圣",
             "num": "0090",
-            "urllist": "https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8"
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "经典影视HD",
             "num": "0091",
-            "urllist": "https://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
+            "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
           {
             "itemid": "uid04",
