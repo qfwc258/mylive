@@ -506,9 +506,9 @@
         },
         {
             "itemid": "uid03",
-            "name": "武林外传",
+            "name": "刘德华",
             "num": "0085",
-            "urllist": "https://pl30.live.panda.tv/live_panda/3b5a393945fdd87ec3818b1108b2c887.flv?sign=deb2defab08fa6833ef9da27e0239dc8&ts=5c724dd9&rid=-46352331&add_index_info=1"
+            "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
@@ -523,15 +523,33 @@
             "urllist": "http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8"
         },
         {
-            "itemid": "uid04",
-            "name": "TVB星河频道",
+            "itemid": "uid03",
+            "name": "倚天屠龙记",
             "num": "0088",
-            "urllist": "http://push.zhibo.news.cn/live/vbj2.flv"
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "笑傲江湖",
+            "num": "0089",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8"
+        },
+         {
+            "itemid": "uid03",
+            "name": "齐天大圣",
+            "num": "0090",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid04",
+            "name": "经典影视HD",
+            "num": "0091",
+            "urllist": "https://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
           {
             "itemid": "uid04",
             "name": "无线功夫",
-            "num": "0089",
+            "num": "0092",
             "urllist": "http://push.zhibo.news.cn/live/abj2.flv"
         }
       ],
