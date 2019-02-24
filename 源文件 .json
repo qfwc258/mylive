@@ -142,7 +142,7 @@
             "itemid": "uid01",
             "name": "东南卫视",
             "num": "0024",
-            "urllist": "http://111.40.205.72/PLTV/88888888/224/3221225620/index.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225620/index.m3u8#http://ivi.bupt.edu.cn/hls/dntv.m3u8"
+            "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/dnwshd/4000000/live.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225620/index.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225620/index.m3u8#http://ivi.bupt.edu.cn/hls/dntv.m3u8"
         },
         {
             "itemid": "uid01",
