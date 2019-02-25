@@ -571,27 +571,33 @@
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8"
         },
         {
+            "itemid": "uid03",
+            "name": "武林外传",
+            "num": "0096",
+            "urllist": "http://pl30.live.panda.tv/live_panda/3b5a393945fdd87ec3818b1108b2c887.flv?sign=f06fbde311e9d5628256a3acbda9f8a6&ts=5c737dd4&rid=-13677705"
+        },
+        {
             "itemid": "uid04",
             "name": "经典影视HD",
-            "num": "0096",
+            "num": "0097",
             "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "翡翠台-J2",
-            "num": "0097",
+            "num": "0098",
             "urllist": "http://alsource.pull.inke.cn/live/1550806359902096.m3u8"
         },
          {
             "itemid": "uid04",
             "name": "凤凰卫视HD",
-            "num": "0098",
+            "num": "0099",
             "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
           {
             "itemid": "uid04",
             "name": "漫威电影",
-            "num": "0099",
+            "num": "0100",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         }
       ],
