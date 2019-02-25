@@ -582,10 +582,16 @@
             "num": "0097",
             "urllist": "http://alsource.pull.inke.cn/live/1550806359902096.m3u8"
         },
+         {
+            "itemid": "uid04",
+            "name": "凤凰卫视HD",
+            "num": "0098",
+            "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
+        },
           {
             "itemid": "uid04",
             "name": "漫威电影",
-            "num": "0098",
+            "num": "0099",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         }
       ],
