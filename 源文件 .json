@@ -553,21 +553,39 @@
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8"
         },
         {
+            "itemid": "uid03",
+            "name": "陈翔六点半",
+            "num": "0093",
+            "urllist": "http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "舌尖上的中国",
+            "num": "0094",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8"
+        },
+        {
+            "itemid": "uid03",
+            "name": "野食小哥",
+            "num": "0095",
+            "urllist": "https://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8"
+        },
+        {
             "itemid": "uid04",
             "name": "经典影视HD",
-            "num": "0093",
+            "num": "0096",
             "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "翡翠台-J2",
-            "num": "0094",
+            "num": "0097",
             "urllist": "http://alsource.pull.inke.cn/live/1550806359902096.m3u8"
         },
           {
             "itemid": "uid04",
             "name": "漫威电影",
-            "num": "0095",
+            "num": "0098",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         }
       ],
