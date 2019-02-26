@@ -595,27 +595,33 @@
             "urllist": "http://e87523078c98eee5abe9e09146c0cb5d.v.smtcdns.net/pl28.live.panda.tv/live_panda/c5a97489ca5603b0e6c4e66f78766866.flv?sign=eb87614f6bfedac8868d875e3502d7bf&ts=5c750196&rid=-16355075&dispatch_from=ztc10.61.146.146&utime=1551171990753"
         },
         {
+            "itemid": "uid03",
+            "name": "岳云鹏",
+            "num": "0100",
+            "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8"
+        },
+        {
             "itemid": "uid04",
             "name": "经典影视HD",
-            "num": "0100",
+            "num": "0101",
             "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "翡翠台-J2",
-            "num": "0101",
+            "num": "0102",
             "urllist": "http://alsource.pull.inke.cn/live/1550806359902096.m3u8"
         },
          {
             "itemid": "uid04",
             "name": "凤凰卫视HD",
-            "num": "0102",
+            "num": "0103",
             "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
           {
             "itemid": "uid04",
             "name": "漫威电影",
-            "num": "0103",
+            "num": "0104",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         }
       ],
