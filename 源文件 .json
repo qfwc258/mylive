@@ -629,6 +629,18 @@
             "name": "中国天气",
             "num": "0105",
             "urllist": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"
+        },
+         {
+            "itemid": "uid04",
+            "name": "邳州综合",
+            "num": "0106",
+            "urllist": "http://stream.pznews.com/pztv2/sd/live.m3u8"
+        },
+              {
+            "itemid": "uid04",
+            "name": "邳州综艺",
+            "num": "0107",
+            "urllist": "http://stream.pznews.com/pztv1/sd/live.m3u8"
         }
       ],
     "type": [
