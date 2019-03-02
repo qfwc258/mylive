@@ -623,6 +623,12 @@
             "name": "漫威电影",
             "num": "0104",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
+        },
+         {
+            "itemid": "uid04",
+            "name": "中国天气",
+            "num": "0105",
+            "urllist": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"
         }
       ],
     "type": [
