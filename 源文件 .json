@@ -256,7 +256,7 @@
             "itemid": "uid01",
             "name": "厦门卫视",
             "num": "0043",
-            "urllist": "http://cctvtxyh5c.liveplay.myqcloud.com/wstv/xiamen_2/index.m3u8#http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8#http://ivi.bupt.edu.cn/hls/xmtv.m3u8#http://117.156.28.119/270000001111/1110000103/index.m3u8"
+            "urllist": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8#http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8#http://ivi.bupt.edu.cn/hls/xmtv.m3u8#http://117.156.28.119/270000001111/1110000103/index.m3u8"
         },
         {
             "itemid": "uid01",
