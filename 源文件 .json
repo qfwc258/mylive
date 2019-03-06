@@ -112,37 +112,37 @@
             "itemid": "uid00",
             "name": "CCTV-第一剧场",
             "num": "0019",
-            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000614/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226595/index.m3u8#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8"
+            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_dyjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-怀旧剧场",
             "num": "0020",
-            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000622/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226634/index.m3u8#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000622/index.m3u8"
+            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_hjjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云剧场",
             "num": "0021",
-            "urllist": "http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000617/index.m3u8#https://tv6.ime.moe/hls/fyjctv.m3u8#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000617/index.m3u8"
+            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云足球",
             "num": "0022",
-            "urllist": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8#http://60.21.197.202/PLTV/460033/224/0/3221225821/0000000008oc.smil#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000618/index.m3u8"
+            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyzq_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云音乐",
             "num": "0023",
-            "urllist": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226591/index.m3u8#http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000613/index.m3u8"
+            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyyy_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-世界地理",
             "num": "0024",
-            "urllist": "http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8#http://112.50.243.7/PLTV/88888888/224/3221226630/index.m3u8#http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000615/index.m3u8"
+            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_sjdl_1000/online.m3u8"
         },
         {
             "itemid": "uid01",
