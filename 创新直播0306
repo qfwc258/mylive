@@ -1,0 +1,460 @@
+{
+    "live": [
+        {
+            "itemid": "uid00",
+            "name": "此版本已停用",
+            "num": "0001",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-1/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "请加QQ",
+            "num": "0002",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-2/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "771351289",
+            "num": "0003",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-3/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "下载最新版本",
+            "num": "0004",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-4/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "新版本更精彩",
+            "num": "0005",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-5/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "全网通用",
+            "num": "0006",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-6/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "我不是搬运工",
+            "num": "0007",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-7/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "有需要加QQ",
+            "num": "0008",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-8/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "付费软件请想清楚",
+            "num": "0009",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-news/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "不提供试看",
+            "num": "0010",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-10/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV11",
+            "num": "0011",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-11/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV12",
+            "num": "0012",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-12/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV13",
+            "num": "0013",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-13/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV14",
+            "num": "0014",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-14/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV15",
+            "num": "0015",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/cctv-15/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广东卫视HD",
+            "num": "0016",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdguangdongstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "深圳卫视HD",
+            "num": "0017",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdshenzhenstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京卫视HD",
+            "num": "0018",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdbeijingstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山东卫视HD",
+            "num": "0019",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdshandongstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东方卫视HD",
+            "num": "0020",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hddongfangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖南卫视HD",
+            "num": "0021",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/hdhunanstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "浙江卫视HD",
+            "num": "0022",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdzhejiangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天津卫视HD",
+            "num": "0023",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdtianjinstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "黑龙江卫视HD",
+            "num": "0024",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdheilongjiangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖北卫视HD",
+            "num": "0025",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/hdhubeistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江苏卫视HD",
+            "num": "0026",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/hdjiangsustv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "内蒙古卫视",
+            "num": "0027",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/neimenggustv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广东卫视",
+            "num": "0028",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/guangdongstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "深圳卫视",
+            "num": "0029",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//shenzhenstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "北京卫视",
+            "num": "0030",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/beijingstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山东卫视",
+            "num": "0031",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//shandongstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东方卫视",
+            "num": "0032",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//dongfangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖南卫视",
+            "num": "0033",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/hunanstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "浙江卫视",
+            "num": "0034",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//zhejiangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "天津卫视",
+            "num": "0035",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/tianjinstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "辽宁卫视",
+            "num": "0036",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//liaoningstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "湖北卫视",
+            "num": "0037",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/hubeistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江苏卫视",
+            "num": "0038",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/jiangsustv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "旅游卫视",
+            "num": "0039",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/lvyoustv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "广西卫视",
+            "num": "0040",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/guangxistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "云南卫视",
+            "num": "0041",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/yunnanstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "贵州卫视",
+            "num": "0042",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/guizhoustv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "四川卫视",
+            "num": "0043",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/sichuanstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "重庆卫视",
+            "num": "0044",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/chongqingstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "新疆卫视",
+            "num": "0045",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//xinjiangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "西藏卫视",
+            "num": "0046",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/xizangstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "宁夏卫视",
+            "num": "0047",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/ningxiastv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "青海卫视",
+            "num": "0048",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/qinghaistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河南卫视",
+            "num": "0049",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/henanstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山西卫视",
+            "num": "0050",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/shanxistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "甘肃卫视",
+            "num": "0051",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/gansustv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "安徽卫视",
+            "num": "0052",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/anhuistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江西卫视",
+            "num": "0053",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/jiangxistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "吉林卫视",
+            "num": "0054",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/jilinstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "东南卫视",
+            "num": "0055",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/dongnanstv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "陕西卫视",
+            "num": "0056",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/shanxi1stv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "河北卫视",
+            "num": "0057",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/hebeistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "江西卫视",
+            "num": "0058",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/jiangxistv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "山东教育",
+            "num": "0059",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/e/shandongjy/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "中国教育1",
+            "num": "0060",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ive/jiaoyutv/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "金鹰卡通",
+            "num": "0061",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "优漫卡通",
+            "num": "0062",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "炫动卡通",
+            "num": "0063",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "卡酷少儿",
+            "num": "0064",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 爱情喜剧",
+            "num": "0065",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/aiqingxj/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 动画王国",
+            "num": "0066",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/donghuawg/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 古装剧场",
+            "num": "0067",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/guzhuangjc/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 家庭剧场",
+            "num": "0068",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jiatingjc/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 惊悚悬疑",
+            "num": "0069",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jingsongxy/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 精品记录",
+            "num": "0070",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jingpinjl/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 军事评论",
+            "num": "0071",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/junshipl/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 农业致富",
+            "num": "0072",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/nongyezf/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 明星大片",
+            "num": "0073",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/mingxingdp/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 动作电影",
+            "num": "0074",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/dongzuody/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "NewsTV 金牌综艺",
+            "num": "0075",
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/saishijx/1.m3u8"
+        }
+    ],
+    "type": [
+        {
+            "id": "uid00",
+            "name": "创新直播移动"
+        }
+    ]
+}
