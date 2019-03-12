@@ -208,31 +208,31 @@
             "itemid": "uid01",
             "name": "金鹰卡通",
             "num": "0035",
-            "urllist": "http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8#http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "优漫卡通",
             "num": "0036",
-            "urllist": "http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8#http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "炫动卡通",
             "num": "0037",
-            "urllist": "http://112.50.243.8/PLTV/88888888/224/3221225872/1.m3u8#http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "卡酷少儿",
             "num": "0038",
-            "urllist": "http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8#http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "嘉佳卡通",
             "num": "0039",
-            "urllist": "http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8#http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8"
+            "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8"
         },
         {
             "itemid": "uid01",
