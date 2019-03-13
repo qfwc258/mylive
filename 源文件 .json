@@ -4,7 +4,7 @@
             "itemid": "uid00",
             "name": "CCTV-1综合频道",
             "num": "0001",
-            "urllist": "http://39.134.134.115:80/wh7f454c46tw3263180889_145684096/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=sxEIUWIgvyU6nlTJjpSKKiFE7%2F8iCkgEQEaXazynJSo14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsbf3pltZqxOEr5vy%2FGkSFDQELCZ5VFqe%2BHswQr31%2Fca1A%3D%3D%3A20181012125822%2C54C57AADF598%2C183.93.146.195%2C20181012125822%2C10000100000000050000000002171815%2C10D8DB09DE73F72E0AC285893FF50DE8%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539319961&from=1&hms_devid=3563#http://111.40.205.72/PLTV/88888888/224/3221225587/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/"
+            "urllist": "http://39.134.134.115:80/wh7f454c46tw3263180889_145684096/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=sxEIUWIgvyU6nlTJjpSKKiFE7%2F8iCkgEQEaXazynJSo14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsbf3pltZqxOEr5vy%2FGkSFDQELCZ5VFqe%2BHswQr31%2Fca1A%3D%3D%3A20181012125822%2C54C57AADF598%2C183.93.146.195%2C20181012125822%2C10000100000000050000000002171815%2C10D8DB09DE73F72E0AC285893FF50DE8%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539319961&from=1&hms_devid=3563#http://111.40.205.72/PLTV/88888888/224/3221225587/index.m3u8#http://223.110.242.130:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/#CCTV1,http://111.40.205.87/PLTV/88888888/224/3221225605/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -220,31 +220,31 @@
             "itemid": "uid01",
             "name": "金鹰卡通",
             "num": "0037",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "优漫卡通",
             "num": "0038",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "炫动卡通",
             "num": "0039",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "卡酷少儿",
             "num": "0040",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "嘉佳卡通",
             "num": "0041",
-            "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8"
+            "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8#http://nclive.grtn.cn/jjkt/sd/live.m3u8"
         },
         {
             "itemid": "uid01",
@@ -848,39 +848,45 @@
         },
         {
             "itemid": "uid05",
-            "name": "凤凰卫视HD",
+            "name": "星空卫视",
             "num": "0142",
+            "urllist": "http://218.202.220.2:5000/nn_live.ts?id=STARTV"
+        },
+        {
+            "itemid": "uid05",
+            "name": "环球电视台",
+            "num": "0143",
+            "urllist": "http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "凤凰卫视HD",
+            "num": "0144",
             "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "漫威电影",
-            "num": "0143",
+            "num": "0145",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "邳州综合",
-            "num": "0144",
+            "num": "0146",
             "urllist": "http://stream.pznews.com/pztv2/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "邳州综艺",
-            "num": "0145",
+            "num": "0147",
             "urllist": "http://stream.pznews.com/pztv1/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "CCTV-4K",
-            "num": "0146",
+            "num": "0148",
             "urllist": "http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8"
-        },
-        {
-            "itemid": "uid05",
-            "name": "星空卫视",
-            "num": "0147",
-            "urllist": "http://218.202.220.2:5000/nn_live.ts?id=STARTV"
         }
     ],
     "type": [
