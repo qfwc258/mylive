@@ -220,31 +220,31 @@
             "itemid": "uid01",
             "name": "金鹰卡通",
             "num": "0037",
-            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/#http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "优漫卡通",
             "num": "0038",
-            "urllist": "http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/#http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "炫动卡通",
             "num": "0039",
-            "urllist": "http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/#http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "卡酷少儿",
             "num": "0040",
-            "urllist": "http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/#http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "嘉佳卡通",
             "num": "0041",
-            "urllist": "http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/#http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8#http://nclive.grtn.cn/jjkt/sd/live.m3u8"
+            "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8#http://nclive.grtn.cn/jjkt/sd/live.m3u8"
         },
         {
             "itemid": "uid01",
@@ -416,79 +416,79 @@
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 热播剧场",
+            "name": "CIBN热播剧场",
             "num": "0070",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN金古珍藏",
+            "name": "CIBN古装剧场",
             "num": "0071",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 综合",
+            "name": "CIBN综合",
             "num": "0072",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 嗨播",
+            "name": "CIBN嗨播",
             "num": "0073",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 炫佳动漫",
+            "name": "CIBN炫佳动漫",
             "num": "0074",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 电影",
+            "name": "CIBN电影",
             "num": "0075",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 钓鱼",
+            "name": "CIBN钓鱼",
             "num": "0076",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPDHWXF/1800/vCIBNHWXF.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 汉学院",
+            "name": "CIBN汉学院",
             "num": "0077",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN CANTV",
+            "name": "CIBNCANTV",
             "num": "0078",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 财经A",
+            "name": "CIBN财经A",
             "num": "0079",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNSFYX/1800/vCIBNSFYX.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 财经G",
+            "name": "CIBN财经G",
             "num": "0080",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCJPD/1800/vCIBNCJPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 第一赛场",
+            "name": "CIBN第一赛场",
             "num": "0081",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 大伽钜惠",
+            "name": "CIBN大伽钜惠",
             "num": "0082",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDKJH/1800/vCIBNDKJH.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
@@ -506,7 +506,7 @@
         },
         {
             "itemid": "uid02",
-            "name": "CIBN禅文化",
+            "name": "CIBN中国",
             "num": "0085",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
