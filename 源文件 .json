@@ -112,7 +112,7 @@
             "itemid": "uid00",
             "name": "CCTV-环球奇观",
             "num": "0019",
-            "urllist": "http://v.91kds.cn/a/pptv.m3u8?id=hqqg&ip=202.102.68.144&nwtime=1552379395&sign=aea91918bc1f916582eee121cbe8e564#http://jiasu1.peoplevideo.cn/hls/vCIBNHQQG/800/vCIBNHQQG.m3u8?wsSecret=ae4ac02e16f0e7ce2772fee362643206&wsTime=1552379351"
+            "urllist": "http://v.91kds.cn/a/pptv.m3u8?id=hqqg&ip=202.102.68.159&nwtime=1552530607&sign=bb9f39bd57a67b65fe23b9fbfc5a38d4"
         },
         {
             "itemid": "uid00",
@@ -128,818 +128,836 @@
         },
         {
             "itemid": "uid00",
-            "name": "CCTV-第一剧场",
+            "name": "CCTV-电视指南",
             "num": "0022",
+            "urllist": "http://61.161.250.41:8114/hls/index.m3u8?FvSeid=1&Fsv_ctype=lives&Fsv_otype=1&Provider_id=&Pcontent_id=&Fsv_chan_hls_se_idx=48"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CCTV-第一剧场",
+            "num": "0023",
             "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv#http://live-lt-hls-yf.jstv.com/live/cctv_dyjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-怀旧剧场",
-            "num": "0023",
+            "num": "0024",
             "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_hjjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云剧场",
-            "num": "0024",
+            "num": "0025",
             "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云足球",
-            "num": "0025",
+            "num": "0026",
             "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyzq_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-老故事",
-            "num": "0026",
+            "num": "0027",
             "urllist": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云音乐",
-            "num": "0027",
+            "num": "0028",
             "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyyy_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-世界地理",
-            "num": "0028",
+            "num": "0029",
             "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_sjdl_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CHC家庭影院",
-            "num": "0029",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/chctv"
+            "num": "0030",
+            "urllist": "http://hnfh.chinashadt.com:1995/live/live8.stream/playlist.m3u8?myTokenPrefixCustomParameter=759&myTokenPrefixendtime=1552618006&myTokenPrefixhash=6MuprP6vmyEMGDwSackJqJDycaJQC7yN4oOR-U3gwgo="
         },
         {
             "itemid": "uid00",
             "name": "CHC动作电影",
-            "num": "0030",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv"
+            "num": "0031",
+            "urllist": "http://hbmc.chinashadt.com:2739/mc5/dzdy.stream_360p/playlist.m3u8?myTokenPrefixCustomParameter=682&myTokenPrefixendtime=1552617941&myTokenPrefixhash=WT0OV9nG3A2HGW0NOZjApiDzbYUvqorGUi9KiADi5g0="
         },
         {
             "itemid": "uid00",
             "name": "CHC高清电影",
-            "num": "0031",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/chchd"
+            "num": "0032",
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "欢笑剧场",
+            "num": "0033",
+            "urllist": "http://183.251.61.198/PLTV/88888888/224/3221226729/index.m3u8?icpid=88888888&from=0&popid=25&hms_devid=2140,203&prioritypopid=25&online=1552532424"
         },
         {
             "itemid": "uid01",
             "name": "湖南卫视",
-            "num": "0032",
+            "num": "0034",
             "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/7974616548417716430/index.m3u8?channel-id=bestzb&Contentid=7974616548417716430&livemode=1&stbId=004104181107061005B554C57AF7EBD4&version=1.0&owaccmark=7974616548417716430&owchid=bestzb&owsid=9681351598053162095&AuthInfo=0bodsgCw6irlZCbBo32NmO%2bD73nE5VRxINzDcbsEx%2bKa2jG1vocz5UvkCT2RB21g5LUlOYeOi4ekMkfGn%2bhgkPtr82l9WhTM0ksCPNZAJcYMFiLSBK1qmtws0Bi1c%2f5U#,rtsp://119.39.49.116:554/ch00000090990000001079.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000067/index.m3u8?#http://124.232.231.246:6610/000000001001/201500000233/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240008_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225870/10000100000000060000000000219041_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "江苏卫视",
-            "num": "0033",
+            "num": "0035",
             "urllist": "http://39.134.134.56:80/wh7f454c46tw4200972994_174743141/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsazXW0hA1GTJRRgq5G2E%2F8kRNyFgO2pSKd9eYkIp74bDg%3D%3D%3A20181012132320%2C54C57AADF598%2C183.93.146.195%2C20181012132320%2C10000100000000050000000002172100%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321458&from=1&hms_devid=3543#rtsp://119.39.49.116:554/ch00000090990000001082.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000070/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240048_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225872/10000100000000060000000000215718_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "浙江卫视",
-            "num": "0034",
+            "num": "0036",
             "urllist": "http://39.134.134.113:80/wh7f454c46tw359378752_127683947/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226247/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsacfzh9FqgMc5bSEXTnNnsDixKdRditpbz54jbxKoJXkw%3D%3D%3A20181012132346%2C54C57AADF598%2C183.93.146.195%2C20181012132346%2C10000100000000050000000002172165%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321409&from=1&hms_devid=3363#rtsp://119.39.49.116:554/ch00000090990000001076.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000064/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240013_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225866/10000100000000060000000000219050_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "北京卫视",
-            "num": "0035",
+            "num": "0037",
             "urllist": "http://39.134.134.27:80/wh7f454c46tw370589030_197660182/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226224/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYyJIJiOLFB9oypdtoENryG4kVuILvVODpAlPSwbycD8w%3D%3D%3A20181012132239%2C54C57AADF598%2C183.93.146.195%2C20181012132239%2C10000100000000050000000002171709%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321617&from=1&hms_devid=563#rtsp://119.39.49.116:554/ch00000090990000001077.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000065/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240026_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225868/10000100000000060000000000219046_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "天津卫视",
-            "num": "0036",
+            "num": "0038",
             "urllist": "http://39.134.134.70:80/wh7f454c46tw232170718_739226070/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226246/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsb67zxrFdYUX9xdMsQQWdW9ZlOLbRviN9lIdxsSGRbzig%3D%3D%3A20181012133033%2C54C57AADF598%2C183.93.146.195%2C20181012133033%2C10000100000000050000000002172162%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322090&from=1&hms_devid=3523#http://124.232.231.246:6610/000000001001/201500000123/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240072_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240136_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225880/10000100000000060000000000215743_0.smil#rtsp://113.136.42.41:554/PLTV/88888888/224/0/3221225538/iptv19005.smil"
         },
         {
             "itemid": "uid01",
             "name": "广东卫视",
-            "num": "0037",
+            "num": "0039",
             "urllist": "http://39.134.134.66:80/wh7f454c46tw4107291284_696269008/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226238/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZV47t6jxR0ukUYoaxdFN%2FG9UuyRwAlmPJ35jIN30yJ7Q%3D%3D%3A20181012132626%2C54C57AADF598%2C183.93.146.195%2C20181012132626%2C10000100000000050000000002172050%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321569&from=1&hms_devid=3383#rtsp://119.39.49.116:554/ch00000090990000001218.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000029/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240036_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240137_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225881/10000100000000060000000000215744_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "深圳卫视",
-            "num": "0038",
+            "num": "0040",
             "urllist": "http://39.134.134.59:80/wh7f454c46tw416748621_1558866135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZ04xfDqzszxB9yjIyjId6tnW7eBKhumQWKo1clTpjTJQ%3D%3D%3A20181012132817%2C54C57AADF598%2C183.93.146.195%2C20181012132817%2C10000100000000050000000002172157%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321955&from=1&hms_devid=3583#rtsp://119.39.49.116:554/ch00000090990000001078.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000066/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240004_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225818/10000100000000060000000000215701_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "东南卫视",
-            "num": "0039",
+            "num": "0041",
             "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/dnwshd/4000000/live.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225620/index.m3u8#http://ivi.bupt.edu.cn/hls/dntv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "黑龙江卫视",
-            "num": "0040",
+            "num": "0042",
             "urllist": "http://39.134.134.60:80/wh7f454c46tw1640715257_661838283/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsb0ujsbPMPASyw9tW84PAqqQm4Qo8SiSJdkYLZq6OpHig%3D%3D%3A20181012132928%2C54C57AADF598%2C183.93.146.195%2C20181012132928%2C10000100000000050000000002172091%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322026&from=1&hms_devid=3583#rtsp://119.39.49.116:554/ch00000090990000001084.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000072/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240042_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240131_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225874/10000100000000060000000000215723_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "金鹰卡通",
-            "num": "0041",
+            "num": "0043",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "优漫卡通",
-            "num": "0042",
+            "num": "0044",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "炫动卡通",
-            "num": "0043",
+            "num": "0045",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "卡酷少儿",
-            "num": "0044",
+            "num": "0046",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "嘉佳卡通",
-            "num": "0045",
+            "num": "0047",
             "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/jjkt/1300000/live.m3u8#http://nclive.grtn.cn/jjkt/sd/live.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "湖北卫视",
-            "num": "0046",
+            "num": "0048",
             "urllist": "http://111.40.205.72/PLTV/88888888/224/3221225627/index.m3u8#http://39.134.134.71:80/wh7f454c46tw2919594737_286955013/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZek6nV9Rg5PFKSz7sBHUSbkYf0fa5%2BU8juC6m7DgkGkA%3D%3D%3A20181012133219%2C54C57AADF598%2C183.93.146.195%2C20181012133219%2C10000100000000050000000002172092%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321998&from=1&hms_devid=3423"
         },
         {
             "itemid": "uid01",
             "name": "东方卫视",
-            "num": "0047",
+            "num": "0049",
             "urllist": "http://39.134.134.114:80/wh7f454c46tw1139762244_1116759023/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZYWvKCT4%2FYpVkbKoZRTRNAiiFFv9oQn5RopIw3TiunxA%3D%3D%3A20181012132411%2C54C57AADF598%2C183.93.146.195%2C20181012132411%2C10000100000000050000000002172024%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321709&from=1&hms_devid=3363#rtsp://119.39.49.116:554/ch00000090990000001081.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000069/index.m3u8?#ttp://1.180.237.9/live.aishang.ctlcdn.com/00000110240011_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225875/10000100000000060000000000215734_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "山东卫视",
-            "num": "0048",
+            "num": "0050",
             "urllist": "http://39.134.134.117:80/wh7f454c46tw2178286888_130690518/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsaHo%2B1kVPPdH4KTxDLeiceh9yaeAXWRGtraf3uVNRgMag%3D%3D%3A20181012133149%2C54C57AADF598%2C183.93.146.195%2C20181012133149%2C10000100000000050000000002172151%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539321968&from=1&hms_devid=3483#http://124.232.231.246:6610/000000001001/201500000071/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240064_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240254_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225869/10000100000000060000000000219044_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "安徽卫视",
-            "num": "0049",
+            "num": "0051",
             "urllist": "http://39.134.134.63:80/wh7f454c46tw3544887210_661138250/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226223/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYEX79yoQWFDmHiHS%2BkqyoDGjpx9fA6lduNpuVi%2Bew%2Fkw%3D%3D%3A20181012134120%2C54C57AADF598%2C183.93.146.195%2C20181012134120%2C10000100000000050000000002171699%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322738&from=1&hms_devid=3503#rtsp://119.39.49.116:554/ch00000090990000001215.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000001/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240024_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225878/10000100000000060000000000215738_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "辽宁卫视",
-            "num": "0050",
+            "num": "0052",
             "urllist": "http://111.13.111.247:80/wh7f454c46tw2033039153_1138511149/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225889/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYfCOuIQSPSSGiFS4fv2SSGnKVnv2Fiq%2FmzjywvVNNcxg%3D%3D%3A20181012133553%2C54C57AADF598%2C183.93.146.195%2C20181012133553%2C10000100000000050000000000544153%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322136&from=1&hms_devid=403#rtsp://119.39.49.116:554/ch00000090990000001216.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000049/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240057_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240255_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226104/10000100000000060000000001759202_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "河北卫视",
-            "num": "0051",
+            "num": "0053",
             "urllist": "http://111.13.111.161:80/wh7f454c46tw4217161955_680139612/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225881/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsY1RY4sFMZ500QBvBK7fEV0yo41lKOuy%2F7%2Bxw5CAq%2F%2FOw%3D%3D%3A20181012133849%2C54C57AADF598%2C183.93.146.195%2C20181012133849%2C10000100000000050000000000544145%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322388&from=1&hms_devid=63#rtsp://119.39.49.116:554/ch00000090990000001221.sdp?vcdnid=001#http://124.232.231.246:6610/000000001001/201500000098/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240040_1/encoder/0/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8#rtsp://113.136.42.40:554/PLTV/88888888/224/3221226067/10000100000000060000000001759079_0.smil"
         },
         {
             "itemid": "uid01",
             "name": "四川卫视",
-            "num": "0052",
+            "num": "0054",
             "urllist": "http://111.13.111.160:80/wh7f454c46tw2698425546_1781297366/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225898/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsaZ56uES%2FOY0O4pRUpRe7nkip9zYTb5Tt14dp5YaiYeJg%3D%3D%3A20181012133713%2C54C57AADF598%2C183.93.146.195%2C20181012133713%2C10000100000000050000000000544163%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322491&from=1&hms_devid=43#rtmp://ivi.bupt.edu.cn:1935/livetv/schd#http://124.232.231.246:6610/000000001001/201500000052/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240071_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226069/10000100000000060000000001759081_0.smil#http://ivi.bupt.edu.cn/hls/sctv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "重庆卫视",
-            "num": "0053",
+            "num": "0055",
             "urllist": "http://111.13.111.161:80/wh7f454c46tw3769947797_331473076/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225904/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsaKDYTd%2FpZZtHcCaQPZVdGQWZvcP4am%2FO7nqLQrBjquhQ%3D%3D%3A20181012133511%2C54C57AADF598%2C183.93.146.195%2C20181012133511%2C10000100000000050000000000544169%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322369&from=1&hms_devid=63#http://124.232.231.246:6610/000000001001/201500000020/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240012_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226093/10000100000000060000000001759199_0.smil#http://ivi.bupt.edu.cn/hls/cqtv.m3u8#http://117.156.28.119/270000001111/1110000088/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "陕西卫视",
-            "num": "0054",
+            "num": "0056",
             "urllist": "http://111.13.111.160:80/wh7f454c46tw3989449284_1033152970/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYllGORsqroMDKaiT0OVEIgRHAflRn0fkrLOzqoIiWv9g%3D%3D%3A20181012133954%2C54C57AADF598%2C183.93.146.195%2C20181012133954%2C10000100000000050000000000544160%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322377&from=1&hms_devid=43#http://124.232.231.246:6610/000000001001/201500000055/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240066_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226119/10000100000000060000000001759588_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225854/10000100000000060000000000218161_0.smil#http://ivi.bupt.edu.cn/hls/sxtv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "江西卫视",
-            "num": "0055",
+            "num": "0057",
             "urllist": "http://39.134.134.71:80/wh7f454c46tw9296304_640535693/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYdIvHjYakl%2FfRDMkX8ogXIHL2Dr1kRd6CjMQ919F1BjA%3D%3D%3A20181012133434%2C54C57AADF598%2C183.93.146.195%2C20181012133434%2C10000100000000050000000002172143%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322331&from=1&hms_devid=3423#rtmp://ivi.bupt.edu.cn:1935/livetv/jxhd#http://124.232.231.246:6610/000000001001/201500000044/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240049_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226097/10000100000000060000000001759203_0.smil#http://ivi.bupt.edu.cn/hls/jxtv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "山西卫视",
-            "num": "0056",
+            "num": "0058",
             "urllist": "http://111.13.111.160:80/wh7f454c46tw1336038313_1819656098/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225895/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZJzxA2dbB8p17tfC9DEJZGiYLc9QUPPsbDozWVDA7c3A%3D%3D%3A20181012133920%2C54C57AADF598%2C183.93.146.195%2C20181012133920%2C10000100000000050000000000544159%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322343&from=1&hms_devid=43#http://124.232.231.246:6610/000000001001/201500000111/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240065_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226042/10000100000000060000000001537274_0.smil#http://ivi.bupt.edu.cn/hls/sxrtv.m3u8#http://117.156.28.119/270000001111/1110000089/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "吉林卫视",
-            "num": "0057",
+            "num": "0059",
             "urllist": "http://111.13.111.162:80/wh7f454c46tw1299490468_1677976948/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225886/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsa1sV3Qm2P0wRsfjioTPkBsxydcNmh9%2FvuLOpJTdevK1Q%3D%3D%3A20181012140015%2C54C57AADF598%2C183.93.146.195%2C20181012140015%2C10000100000000050000000000544150%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539323873&from=1&hms_devid=3#http://124.232.231.246:6610/000000001001/201500000100/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240046_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226072/10000100000000060000000001759074_0.smil#http://ivi.bupt.edu.cn/hls/jltv.m3u8#http://117.156.28.119/270000001111/1110000086/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "河南卫视",
-            "num": "0058",
+            "num": "0060",
             "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/7384596500152929578/index.m3u8?channel-id=bestzb&Contentid=7384596500152929578&livemode=1&stbId=004103000002089018289C62AB5E8380&version=1.0&owaccmark=7384596500152929578&owchid=bestzb&owsid=7879911747105487938&AuthInfo=nWG8OErPFI0nRz9eVs3nnAyOOzd1bnDs2rI3OwGw9Bl4RXq8bkje9vPMRq1b3dNkYWTIY4WTqYRiuKsjypsJNwAjdtJbmpNvxrAvKsC7UjqAwOgt1wSiuN4UOHm8M2SR#rtmp://ivi.bupt.edu.cn:1935/livetv/hnhd#http://124.232.231.246:6610/000000001001/201500000099/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240041_1/encoder/0/playlist.m3u8#rtsp://113.136.42.39:554/PLTV/88888888/224/3221226100/10000100000000060000000001759198_0.smil#http://117.156.28.119/270000001111/1110000092/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "贵州卫视",
-            "num": "0059",
+            "num": "0061",
             "urllist": "http://111.13.111.162:80/wh7f454c46tw2642896288_432484743/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225880/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsavNa3jjoo0%2BhYR9hSWQcQDBxBu4PjxgVUKy7KOS8au8w%3D%3D%3A20181012133416%2C54C57AADF598%2C183.93.146.195%2C20181012133416%2C10000100000000050000000000544144%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322314&from=1&hms_devid=3#http://94.191.92.145:5005/nl.ts?id=232-10-1-01"
         },
         {
             "itemid": "uid01",
             "name": "甘肃卫视",
-            "num": "0060",
+            "num": "0062",
             "urllist": "http://111.13.111.161:80/wh7f454c46tw3299481658_253159594/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225877/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYHN%2B%2BTIKSjVkCx25y9Lp4omzmylc1ssA4flTyRek%2BQzA%3D%3D%3A20181012134301%2C54C57AADF598%2C183.93.146.195%2C20181012134301%2C10000100000000050000000000544141%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322838&from=1&hms_devid=63#http://124.232.231.246:6610/000000001001/201500000097/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240034_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226061/10000100000000060000000001759073_0.smil#http://ivi.bupt.edu.cn/hls/gstv.m3u8#http://117.156.28.119/270000001111/1110000066/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "云南卫视",
-            "num": "0061",
+            "num": "0063",
             "urllist": "http://111.13.111.161:80/wh7f454c46tw3614563334_885443441/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225902/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZpNvPZWIQzASuYiY1kkp9JHAKK2%2F9AsU8zxp9oOo4VTQ%3D%3D%3A20181012135353%2C54C57AADF598%2C183.93.146.195%2C20181012135353%2C10000100000000050000000000544167%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539323216&from=1&hms_devid=63#http://124.232.231.246:6610/000000001001/201500000060/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240082_1/encoder/0/playlist.m3u8#rtsp://113.136.42.39:554/PLTV/88888888/224/3221226078/10000100000000060000000001759084_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225886/10000100000000060000000000219954_0.smil#http://ivi.bupt.edu.cn/hls/yntv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "宁夏卫视",
-            "num": "0062",
+            "num": "0064",
             "urllist": "http://111.13.111.161:80/wh7f454c46tw1405874720_1474381771/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225892/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsaFt4QV0QWfpxKS0bh6I8VOaJK6elo24%2BaSTHbE%2FA7sAQ%3D%3D%3A20181012134157%2C54C57AADF598%2C183.93.146.195%2C20181012134157%2C10000100000000050000000000544156%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322775&from=1&hms_devid=63#http://124.232.231.246:6610/000000001001/201500000108/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240061_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226065/10000100000000060000000001759077_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225935/10000100000000060000000000218820_0.smil#http://ivi.bupt.edu.cn/hls/nxtv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "厦门卫视",
-            "num": "0063",
+            "num": "0065",
             "urllist": "http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8#http://cstv.live.wscdns.com/live/xiamen/playlist.m3u8#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240159_1/encoder/0/playlist.m3u8#http://ivi.bupt.edu.cn/hls/xmtv.m3u8#http://117.156.28.119/270000001111/1110000103/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "广西卫视",
-            "num": "0064",
+            "num": "0066",
             "urllist": "http://cctvtxyh5c.liveplay.myqcloud.com/wstv/guangxi_2/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8#http://ivi.bupt.edu.cn/hls/gxtv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "青海卫视",
-            "num": "0065",
+            "num": "0067",
             "urllist": "http://111.13.111.160:80/wh7f454c46tw157328520_67347808/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsaAFbcxPkmVl2JPJB42PxezgAJYjiG97JXYxAfszOb0%2Fg%3D%3D%3A20181012134033%2C54C57AADF598%2C183.93.146.195%2C20181012134033%2C10000100000000050000000000544157%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322416&from=1&hms_devid=43#http://124.232.231.246:6610/000000001001/201500000109/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240063_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226070/10000100000000060000000001759072_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225936/10000100000000060000000000218822_0.smil#http://ivi.bupt.edu.cn/hls/qhtv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "兵团卫视",
-            "num": "0066",
+            "num": "0068",
             "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8#http://ivi.bupt.edu.cn/hls/bttv.m3u8#http://117.156.28.119/270000001111/1110000100/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "西藏卫视",
-            "num": "0067",
+            "num": "0069",
             "urllist": "http://111.13.111.163:80/wh7f454c46tw377258798_937493116/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYpYplzGqayiIfOGAGrsuiZJt7RzWmtUdflPdXhTU7X%2FQ%3D%3D%3A20181012140117%2C54C57AADF598%2C183.93.146.195%2C20181012140117%2C10000100000000050000000000544165%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539323935&from=1&hms_devid=23#http://124.232.231.246:6610/000000001001/201500000117/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240076_1/encoder/0/playlist.m3u8#rtsp://113.136.42.39:554/PLTV/88888888/224/3221226057/10000100000000060000000001759069_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225938/10000100000000060000000000218826_0.smil#http://ivi.bupt.edu.cn/hls/xztv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "内蒙古卫视",
-            "num": "0068",
+            "num": "0070",
             "urllist": "http://39.134.135.10:80/wh7f454c46tw731765597_1318669213/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZHmDWmjO9sPhJF2qffm4iY9dGnhB2%2BIsXZkkRfFnGmnw%3D%3D%3A20181012134335%2C54C57AADF598%2C183.93.146.195%2C20181012134335%2C10000100000000050000000000544155%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322597&from=1&hms_devid=663#http://124.232.231.246:6610/000000001001/201500000107/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240060_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226068/10000100000000060000000001759070_0.smil#http://ivi.bupt.edu.cn/hls/nmtv.m3u8#http://117.156.28.119/270000001111/1110000096/index.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "新疆卫视",
-            "num": "0069",
+            "num": "0071",
             "urllist": "http://111.13.111.163:80/wh7f454c46tw4367700_1704519746/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsazA3%2BJj5mm8a0x7z0tIEWGEJT0v10UgSo3zmZ8HthldA%3D%3D%3A20181012134953%2C54C57AADF598%2C183.93.146.195%2C20181012134953%2C10000100000000050000000000544166%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539323051&from=1&hms_devid=23#http://124.232.231.246:6610/000000001001/201500000116/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8#rtsp://113.136.42.39:554/PLTV/88888888/224/3221226059/10000100000000060000000001759071_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225942/10000100000000060000000000218836_0.smil#http://ivi.bupt.edu.cn/hls/xjtv.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "旅游卫视",
-            "num": "0070",
+            "num": "0072",
             "urllist": "http://111.40.205.92/PLTV/88888888/224/3221225639/index.m3u8#http://ivi.bupt.edu.cn/hls/lytv.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225863/10000100000000060000000000218139_0.smil,tvming-TravelTV#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225863/10000100000000060000000000218139_0.smil"
         },
         {
             "itemid": "uid02",
             "name": "CIBN喜剧影院",
-            "num": "0071",
+            "num": "0073",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN军事",
-            "num": "0072",
+            "num": "0074",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN骄阳剧场",
-            "num": "0073",
+            "num": "0075",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN热播剧场",
-            "num": "0074",
+            "num": "0076",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN古装剧场",
-            "num": "0075",
+            "num": "0077",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN综合",
-            "num": "0076",
+            "num": "0078",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN嗨播",
-            "num": "0077",
+            "num": "0079",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN炫佳动漫",
-            "num": "0078",
+            "num": "0080",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN电影",
-            "num": "0079",
+            "num": "0081",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN钓鱼",
-            "num": "0080",
+            "num": "0082",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPDHWXF/1800/vCIBNHWXF.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN汉学院",
-            "num": "0081",
+            "num": "0083",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBNCANTV",
-            "num": "0082",
+            "num": "0084",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN财经A",
-            "num": "0083",
+            "num": "0085",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNSFYX/1800/vCIBNSFYX.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN财经G",
-            "num": "0084",
+            "num": "0086",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCJPD/1800/vCIBNCJPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN第一赛场",
-            "num": "0085",
+            "num": "0087",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN大伽钜惠",
-            "num": "0086",
+            "num": "0088",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDKJH/1800/vCIBNDKJH.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN纪录片",
-            "num": "0087",
+            "num": "0089",
             "urllist": "http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN微电影",
-            "num": "0088",
+            "num": "0090",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN中国",
-            "num": "0089",
+            "num": "0091",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBNtea游戏",
-            "num": "0090",
+            "num": "0092",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN汽车",
-            "num": "0091",
+            "num": "0093",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN教育",
-            "num": "0092",
+            "num": "0094",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN流金岁月",
-            "num": "0093",
+            "num": "0095",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN好莱坞",
-            "num": "0094",
+            "num": "0096",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN动作影院",
-            "num": "0095",
+            "num": "0097",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN真人秀",
-            "num": "0096",
+            "num": "0098",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN经典剧场",
-            "num": "0097",
+            "num": "0099",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNJCJD/1800/vCIBNJCJD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
-            "name": "CIBN 院线大片",
-            "num": "0098",
+            "name": "CIBN院线大片",
+            "num": "0100",
             "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
         },
         {
             "itemid": "uid02",
             "name": "CIBN生活",
-            "num": "0099",
+            "num": "0101",
             "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN情感影院",
-            "num": "0100",
+            "num": "0102",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN精品影院",
-            "num": "0101",
+            "num": "0103",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid02",
             "name": "CIBN微电影",
-            "num": "0102",
+            "num": "0104",
             "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
         },
         {
             "itemid": "uid03",
             "name": "Newtv动作电影",
-            "num": "0103",
+            "num": "0105",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/dongzuody/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225661/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv动画王国",
-            "num": "0104",
+            "num": "0106",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/donghuawg/1.m3u8#http://111.40.205.86/wh7f454c46tw3813441480_1822026572/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1551762881&from=0&hms_devid=123,163,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv古装剧场",
-            "num": "0105",
+            "num": "0107",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/guzhuangjc/1.m3u8#http://111.40.205.79/wh7f454c46tw91938726_2025903482/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1551762941&from=0&hms_devid=43,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv明星大片",
-            "num": "0106",
+            "num": "0108",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/mingxingdp/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225664/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv惊悚悬疑",
-            "num": "0107",
+            "num": "0109",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jingsongxy/1.m3u8#http://111.40.205.74/wh7f454c46tw998789359_718866312/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1551764426&from=0&hms_devid=83,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv金牌综艺",
-            "num": "0108",
+            "num": "0110",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/saishijx/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225666/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv精品电影",
-            "num": "0109",
+            "num": "0111",
             "urllist": "http://111.40.205.79/wh7f454c46tw2672818726_969700175/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1551764486&from=0&hms_devid=43,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv军事评论",
-            "num": "0110",
+            "num": "0112",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/junshipl/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225668/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv爱情喜剧",
-            "num": "0111",
+            "num": "0113",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/aiqingxj/1.m3u8#http://111.40.205.85/wh7f454c46tw1020790225_768885976/PLTV/88888888/224/3221225669/index.m3u8?icpid=88888888&RTS=1551764523&from=0&hms_devid=123,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv精品大剧",
-            "num": "0112",
+            "num": "0114",
             "urllist": "http://111.40.205.77/wh7f454c46tw2045030082_696859108/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1551764541&from=0&hms_devid=3,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv海外剧场",
-            "num": "0113",
+            "num": "0115",
             "urllist": "http://111.40.205.73/wh7f454c46tw50952659_1112937225/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1551764564&from=0&hms_devid=83,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv精品记录",
-            "num": "0114",
+            "num": "0116",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jingpinjl/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225672/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv健康有约",
-            "num": "0115",
+            "num": "0117",
             "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225673/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv精品体育",
-            "num": "0116",
+            "num": "0118",
             "urllist": "http://111.40.205.84/wh7f454c46tw1731516597_664810292/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1551764620&from=0&hms_devid=163,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv电竟",
-            "num": "0117",
+            "num": "0119",
             "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225675/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv军旅剧场",
-            "num": "0118",
+            "num": "0120",
             "urllist": "http://111.40.205.73/wh7f454c46tw507462010_105301567/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1551764655&from=0&hms_devid=83,223"
         },
         {
             "itemid": "uid03",
             "name": "Newtv家庭剧场",
-            "num": "0119",
+            "num": "0121",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jiatingjc/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225677/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv搏击剧场",
-            "num": "0120",
+            "num": "0122",
             "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225680/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv中国功夫",
-            "num": "0121",
+            "num": "0123",
             "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225681/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "NewsTV农业致富",
-            "num": "0122",
+            "num": "0124",
             "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/nongyezf/1.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv潮妈辣婆",
-            "num": "0123",
+            "num": "0125",
             "urllist": "http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "Newtv炫舞未来",
-            "num": "0124",
+            "num": "0126",
             "urllist": "http://117.169.79.101:8080/PLTV/88888888/224/3221225768/index.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "周星驰电影",
-            "num": "0125",
+            "num": "0127",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "林正英电影",
-            "num": "0126",
+            "num": "0128",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "黄渤",
-            "num": "0127",
+            "num": "0129",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "岳云鹏",
-            "num": "0128",
+            "num": "0130",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "刘德华",
-            "num": "0129",
+            "num": "0131",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "猫和老鼠",
-            "num": "0130",
+            "num": "0132",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2475824398-10633584820048887808-2847687532-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
+            "name": "相声小品",
+            "num": "0133",
+            "urllist": "http://58.220.42.15:55336/tslive/c18_lb_xiangshengxiaopin_720p_t10/c18_lb_xiangshengxiaopin_720p_t10.m3u8?key=0013441f954635ea41c433a28b10a5173&dis_k=20613ed868ad3dd029d510a989a8544f5&dis_t=1552532558&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552532558479&qd_ip=114.215.157.159&qd_sc=58c9c7d7e2589d395dc5503dc55706ac"
+        },
+        {
+            "itemid": "uid04",
             "name": "复仇者联盟",
-            "num": "0131",
+            "num": "0134",
             "urllist": "http://tx.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "倚天屠龙记",
-            "num": "0132",
+            "num": "0135",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "笑傲江湖",
-            "num": "0133",
+            "num": "0136",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29359996-2689640740-11551919016289239040-2847699140-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "齐天大圣",
-            "num": "0134",
+            "num": "0137",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2550665260-10955023874743336960-2789253862-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "宫崎骏",
-            "num": "0135",
+            "num": "0138",
             "urllist": "http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "轩辕剑",
-            "num": "0136",
+            "num": "0139",
             "urllist": "http://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "陈翔六点半",
-            "num": "0137",
+            "num": "0140",
             "urllist": "http://tx.hls.huya.com/huyalive/94525224-2655537474-11405446604132450304-2704233350-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "舌尖上的中国",
-            "num": "0138",
+            "num": "0141",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "野食小哥",
-            "num": "0139",
+            "num": "0142",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2656999522-11411726052477632512-3724460598-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "武林外传",
-            "num": "0140",
+            "num": "0143",
             "urllist": "http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c20_lb_wulinwaichuan_720p_t10/c20_lb_wulinwaichuan_720p_t10.m3u8?key=0013441f954635ea413f9e158d104cd8b&dis_k=5fd407d259d38d653adf3b3fc9c72ea8&dis_t=1552365251&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552365251679&qd_ip=114.215.157.159&qd_sc=9a02f79ff91bbee53f832619c30414c1"
         },
         {
             "itemid": "uid04",
             "name": "爱情公寓",
-            "num": "0141",
+            "num": "0144",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "铁齿铜牙纪晓岚",
-            "num": "0142",
+            "num": "0145",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "封神榜",
-            "num": "0143",
+            "num": "0146",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2523427569-10838038882679783424-2789253886-10057-A-0-1.m3u8"
         },
         {
             "itemid": "uid04",
             "name": "倒霉熊",
-            "num": "0144",
+            "num": "0147",
             "urllist": "http://218.93.204.41/r/baiducdnct.inter.ptqy.gitv.tv/tslive/c20_lb_daomeixiong_720p_t10/c20_lb_daomeixiong_720p_t10.m3u8?key=0013441f954635ea494357b909125f806&dis_k=c07e3553d95f89a46da156a51f348097&dis_t=1552378977&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552378977273&qd_ip=114.215.157.159&qd_sc=e12315d16e57b70030153fa6e6a4993f"
         },
         {
             "itemid": "uid04",
             "name": "龙珠",
-            "num": "0145",
+            "num": "0148",
             "urllist": "http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c19_lb_longzhu_720p_t10/c19_lb_longzhu_720p_t10.m3u8?key=0013441f954635ea42ea7745a66aad9b0&dis_k=be36cf076df838a8e8b420425efdbcaf&dis_t=1552379022&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552379022250&qd_ip=114.215.157.159&qd_sc=b818f565de4bad8e82aa8423d2de450e"
         },
         {
             "itemid": "uid04",
             "name": "屁颠虫",
-            "num": "0146",
+            "num": "0149",
             "urllist": "http://58.218.65.41/r/baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_baoxiaochongzi_720p_t10/c19_lb_baoxiaochongzi_720p_t10.m3u8?key=0013441f954635ea48f767b87e56b6e5e&dis_k=d7bd448a5204f3bd357b801f2cbf0c41&dis_t=1552379066&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552379066561&qd_ip=114.215.157.159&qd_sc=8b1ee0aecdf8613bc7959a390725d2dd"
         },
         {
             "itemid": "uid04",
             "name": "数码宝贝",
-            "num": "0147",
+            "num": "0150",
             "urllist": "http://180.97.242.41/r/baiducdnct.inter.ptqy.gitv.tv/tslive/c19_lb_shumabaobei_720p_t10/c19_lb_shumabaobei_720p_t10.m3u8?key=0013441f954635ea4c24b8695c6acc026&dis_k=398bef8bd0f83eb3440da41328bf1386&dis_t=1552379144&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552379143988&qd_ip=114.215.157.159&qd_sc=c4c35662273f9b339b11a5d5768be3bb"
         },
         {
             "itemid": "uid04",
             "name": "奥特曼",
-            "num": "0148",
+            "num": "0151",
             "urllist": "http://117.91.181.41/r/baiducdnct.inter.ptqy.gitv.tv/tslive/c20_lb_aoteman_720p_t10/c20_lb_aoteman_720p_t10.m3u8?key=0013441f954635ea49cec688c66dcb0a&dis_k=a785a0727f3d1d83f2d5dc121f64b730&dis_t=1552379318&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_src=ih5&qd_tm=1552379318042&qd_ip=114.215.157.159&qd_sc=78d4440b8d1eaee3bb3a372671f0b234"
         },
         {
             "itemid": "uid05",
             "name": "经典影视HD",
-            "num": "0149",
+            "num": "0152",
             "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "翡翠台",
-            "num": "0150",
+            "num": "0153",
             "urllist": "http://alsource.pull.inke.cn/live/1551483099832762.flv"
         },
         {
             "itemid": "uid05",
             "name": "星空卫视",
-            "num": "0151",
+            "num": "0154",
             "urllist": "http://218.202.220.2:5000/nn_live.ts?id=STARTV"
         },
         {
             "itemid": "uid05",
             "name": "环球电视台",
-            "num": "0152",
+            "num": "0155",
             "urllist": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8#http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "凤凰卫视HD",
-            "num": "0153",
+            "num": "0156",
             "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "漫威电影",
-            "num": "0154",
+            "num": "0157",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "邳州综合",
-            "num": "0155",
+            "num": "0158",
             "urllist": "http://stream.pznews.com/pztv2/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "邳州综艺",
-            "num": "0156",
+            "num": "0159",
             "urllist": "http://stream.pznews.com/pztv1/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "CCTV-4K",
-            "num": "0157",
+            "num": "0160",
             "urllist": "http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8"
         }
     ],
