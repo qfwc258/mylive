@@ -890,536 +890,56 @@
         },
         {
             "itemid": "uid05",
-            "name": "直播中国",
-            "num": "0149",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel509"
-        },
-        {
-            "itemid": "uid05",
-            "name": "都江堰飞沙堰",
-            "num": "0150",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1489"
-        },
-        {
-            "itemid": "uid05",
-            "name": "都江堰离锥",
-            "num": "0151",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1484"
-        },
-        {
-            "itemid": "uid05",
-            "name": "都江堰鱼嘴",
-            "num": "0152",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1479"
-        },
-        {
-            "itemid": "uid05",
-            "name": "敦煌月牙泉沙滩",
-            "num": "0153",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1324"
-        },
-        {
-            "itemid": "uid05",
-            "name": "敦煌月牙泉山门",
-            "num": "0154",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1319"
-        },
-        {
-            "itemid": "uid05",
-            "name": "月牙泉鸣沙山",
-            "num": "0155",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1329"
-        },
-        {
-            "itemid": "uid05",
-            "name": "峨眉山贡嘎雪山",
-            "num": "0156",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1214"
-        },
-        {
-            "itemid": "uid05",
-            "name": "峨眉山普贤菩萨",
-            "num": "0157",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1224"
-        },
-        {
-            "itemid": "uid05",
-            "name": "峨眉山眺万佛顶",
-            "num": "0158",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1219"
-        },
-        {
-            "itemid": "uid05",
-            "name": "峨眉山云海日出",
-            "num": "0159",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1209"
-        },
-        {
-            "itemid": "uid05",
-            "name": "凤凰古城-东关门",
-            "num": "0160",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1739"
-        },
-        {
-            "itemid": "uid05",
-            "name": "哈尼多依树梯田",
-            "num": "0161",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1419"
-        },
-        {
-            "itemid": "uid05",
-            "name": "哈尼老虎嘴田",
-            "num": "0162",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1429"
-        },
-        {
-            "itemid": "uid05",
-            "name": "哈尼普高老寨梯田",
-            "num": "0163",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1424"
-        },
-        {
-            "itemid": "uid05",
-            "name": "宏村南湖",
-            "num": "0164",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1449"
-        },
-        {
-            "itemid": "uid05",
-            "name": "宏村月沼",
-            "num": "0165",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1454"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄花城水长城1",
-            "num": "0166",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel489"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄花城水长城2",
-            "num": "0167",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel494"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄花城水长城3",
-            "num": "0168",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel499"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄花城水长城4",
-            "num": "0169",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel504"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山飞来石",
-            "num": "0170",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1199"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山光明顶",
-            "num": "0171",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1189"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山梦笔生花",
-            "num": "0172",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1174"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山排云亭",
-            "num": "0173",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1179"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山平天矼",
-            "num": "0174",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1194"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山始信新道",
-            "num": "0175",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1204"
-        },
-        {
-            "itemid": "uid05",
-            "name": "黄山卧云峰",
-            "num": "0176",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1169"
-        },
-        {
-            "itemid": "uid05",
-            "name": "嘉峪关长城1",
-            "num": "0177",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel629"
-        },
-        {
-            "itemid": "uid05",
-            "name": "嘉峪关长城2",
-            "num": "0178",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel634"
-        },
-        {
-            "itemid": "uid05",
-            "name": "嘉峪关长城4",
-            "num": "0179",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel644"
-        },
-        {
-            "itemid": "uid05",
-            "name": "乐山大佛全景",
-            "num": "0180",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1409"
-        },
-        {
-            "itemid": "uid05",
-            "name": "龙虎山山涧栈道",
-            "num": "0181",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1334"
-        },
-        {
-            "itemid": "uid05",
-            "name": "龙虎山中间水泡",
-            "num": "0182",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1339"
-        },
-        {
-            "itemid": "uid05",
-            "name": "卢村远眺",
-            "num": "0183",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1434"
-        },
-        {
-            "itemid": "uid05",
-            "name": "青海湖蛋岛",
-            "num": "0184",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1084"
-        },
-        {
-            "itemid": "uid05",
-            "name": "青海湖鸬鹚岛",
-            "num": "0185",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1074"
-        },
-        {
-            "itemid": "uid05",
-            "name": "青海湖鸟岛",
-            "num": "0186",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1079"
-        },
-        {
-            "itemid": "uid05",
-            "name": "三亚南天一柱",
-            "num": "0187",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1469"
-        },
-        {
-            "itemid": "uid05",
-            "name": "三亚日月石",
-            "num": "0188",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1474"
-        },
-        {
-            "itemid": "uid05",
-            "name": "三亚天涯鸟瞰",
-            "num": "0189",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1459"
-        },
-        {
-            "itemid": "uid05",
-            "name": "三亚天涯石",
-            "num": "0190",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1464"
-        },
-        {
-            "itemid": "uid05",
-            "name": "少林寺广场",
-            "num": "0191",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1384"
-        },
-        {
-            "itemid": "uid05",
-            "name": "神农架金丝猴A",
-            "num": "0192",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1249"
-        },
-        {
-            "itemid": "uid05",
-            "name": "神农架金丝猴B",
-            "num": "0193",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1254"
-        },
-        {
-            "itemid": "uid05",
-            "name": "神农架金丝猴C",
-            "num": "0194",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1259"
-        },
-        {
-            "itemid": "uid05",
-            "name": "神农架金丝猴D",
-            "num": "0195",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1264"
-        },
-        {
-            "itemid": "uid05",
-            "name": "神农架金丝猴F",
-            "num": "0196",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1274"
-        },
-        {
-            "itemid": "uid05",
-            "name": "嵩山峻极峰",
-            "num": "0197",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1394"
-        },
-        {
-            "itemid": "uid05",
-            "name": "嵩山胜观峰",
-            "num": "0198",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1399"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山大观峰",
-            "num": "0199",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1099"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山拱北石",
-            "num": "0200",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1104"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山十八盘",
-            "num": "0201",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1109"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山天街",
-            "num": "0202",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1119"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山望人松",
-            "num": "0203",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1094"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山玉皇顶",
-            "num": "0204",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1114"
-        },
-        {
-            "itemid": "uid05",
-            "name": "泰山主峰",
-            "num": "0205",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1089"
-        },
-        {
-            "itemid": "uid05",
-            "name": "乌镇白莲塔",
-            "num": "0206",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1244"
-        },
-        {
-            "itemid": "uid05",
-            "name": "乌镇蓝印花布",
-            "num": "0207",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1229"
-        },
-        {
-            "itemid": "uid05",
-            "name": "乌镇龙形田",
-            "num": "0208",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1234"
-        },
-        {
-            "itemid": "uid05",
-            "name": "乌镇西市河",
-            "num": "0209",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1239"
-        },
-        {
-            "itemid": "uid05",
-            "name": "武夷山大红袍茶园",
-            "num": "0210",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1354"
-        },
-        {
-            "itemid": "uid05",
-            "name": "武夷山印象大红袍",
-            "num": "0211",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1349"
-        },
-        {
-            "itemid": "uid05",
-            "name": "武夷山玉女峰",
-            "num": "0212",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1344"
-        },
-        {
-            "itemid": "uid05",
-            "name": "西递半山亭",
-            "num": "0213",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1439"
-        },
-        {
-            "itemid": "uid05",
-            "name": "西递牌坊",
-            "num": "0214",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1444"
-        },
-        {
-            "itemid": "uid05",
-            "name": "西海大峡谷",
-            "num": "0215",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1184"
-        },
-        {
-            "itemid": "uid05",
-            "name": "雪乡大石碑",
-            "num": "0216",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1494"
-        },
-        {
-            "itemid": "uid05",
-            "name": "雪乡梦幻家园",
-            "num": "0217",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1499"
-        },
-        {
-            "itemid": "uid05",
-            "name": "张家界",
-            "num": "0218",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1709"
-        },
-        {
-            "itemid": "uid05",
-            "name": "张家界顶峰",
-            "num": "0219",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1729"
-        },
-        {
-            "itemid": "uid05",
-            "name": "张家界",
-            "num": "0220",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1714"
-        },
-        {
-            "itemid": "uid05",
-            "name": "张家界-阿凡达悬浮山",
-            "num": "0221",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1734"
-        },
-        {
-            "itemid": "uid05",
-            "name": "张家界-将军列队",
-            "num": "0222",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1724"
-        },
-        {
-            "itemid": "uid05",
-            "name": "张家界-水绕四门",
-            "num": "0223",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1719"
-        },
-        {
-            "itemid": "uid05",
-            "name": "魔都眼",
-            "num": "0224",
-            "urllist": "http://bililive.kksmg.com/hls/sdi80/playlist.m3u8"
-        },
-        {
-            "itemid": "uid05",
-            "name": "朱鹮A",
-            "num": "0225",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1279"
-        },
-        {
-            "itemid": "uid05",
-            "name": "朱鹮B",
-            "num": "0226",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1284"
-        },
-        {
-            "itemid": "uid05",
-            "name": "朱鹮C",
-            "num": "0227",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1289"
-        },
-        {
-            "itemid": "uid05",
-            "name": "朱鹮D",
-            "num": "0228",
-            "urllist": "http://livechina.cntv.wscdns.com:8000/live/flv/channel1294"
-        },
-        {
-            "itemid": "uid06",
             "name": "经典影视HD",
-            "num": "0229",
+            "num": "0149",
             "urllist": "http://cn-jlcc-cu-live-03.live-play.acgvideo.com/live-bvc/live_281282463_1547722.m3u8"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "翡翠台",
-            "num": "0230",
+            "num": "0150",
             "urllist": "http://alsource.pull.inke.cn/live/1551483099832762.flv"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "星空卫视",
-            "num": "0231",
+            "num": "0151",
             "urllist": "http://218.202.220.2:5000/nn_live.ts?id=STARTV"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "环球电视台",
-            "num": "0232",
+            "num": "0152",
             "urllist": "http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8#http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "凤凰卫视HD",
-            "num": "0233",
+            "num": "0153",
             "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "漫威电影",
-            "num": "0234",
+            "num": "0154",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "邳州综合",
-            "num": "0235",
+            "num": "0155",
             "urllist": "http://stream.pznews.com/pztv2/sd/live.m3u8"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "邳州综艺",
-            "num": "0236",
+            "num": "0156",
             "urllist": "http://stream.pznews.com/pztv1/sd/live.m3u8"
         },
         {
-            "itemid": "uid06",
+            "itemid": "uid05",
             "name": "CCTV-4K",
-            "num": "0237",
+            "num": "0157",
             "urllist": "http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8"
         }
     ],
@@ -1446,10 +966,6 @@
         },
         {
             "id": "uid05",
-            "name": "风景名胜"
-        },
-        {
-            "id": "uid06",
             "name": "测试频道"
         }
     ]
