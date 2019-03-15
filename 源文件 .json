@@ -118,7 +118,7 @@
             "itemid": "uid00",
             "name": "CCTV-书画频道",
             "num": "0020",
-            "urllist": "rtmp://112.73.66.58/livepkgr/shtv"
+            "urllist": "http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8"
         },
         {
             "itemid": "uid00",
@@ -136,7 +136,7 @@
             "itemid": "uid00",
             "name": "CCTV-第一剧场",
             "num": "0023",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv#http://live-lt-hls-yf.jstv.com/live/cctv_dyjc_1000/online.m3u8"
+            "urllist": "http://h5live.gslb.cmvideo.cn/ws_v/2018/dyjc/dyjc450/350/index.m3u8?msisdn=d9a1f55de59b45e79bcecf36dbdb06c0&mdspid=&spid=699004&netType=0&sid=2200019158&pid=2028597799&timestamp=20190315170306&Channel_ID=1004_10010001005&ProgramID=623338041&ParentNodeID=-99&assertID=2200019158&client_ip=49.95.10.79&SecurityKey=20190315170306&promotionId=&mvid=&mcid=&mpid=&encrypt=05321c9ae1fdc68d8fbb9a72f5ddda4b"
         },
         {
             "itemid": "uid00",
@@ -178,7 +178,7 @@
             "itemid": "uid00",
             "name": "游戏风云",
             "num": "0030",
-            "urllist": "http://183.207.249.7/PLTV/2/224/3221226041/1.m3u8"
+            "urllist": "http://113.142.90.204/chinanet4-live.bestvcdn.com.cn/live/program/live/yxfyhd/2300000/live.m3u8#http://183.207.249.7/PLTV/2/224/3221226041/1.m3u8"
         },
         {
             "itemid": "uid00",
