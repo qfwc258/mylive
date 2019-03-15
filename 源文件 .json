@@ -118,7 +118,7 @@
             "itemid": "uid00",
             "name": "CCTV-书画频道",
             "num": "0020",
-            "urllist": "rtmp://112.73.66.58/livepkgr/shtv"
+            "urllist": "http://112.73.66.58:9999/hls-live/livepkgr/_definst_/shtv/shtv.m3u8"
         },
         {
             "itemid": "uid00",
