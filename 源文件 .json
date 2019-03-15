@@ -16,7 +16,7 @@
             "itemid": "uid00",
             "name": "CCTV-3综艺频道",
             "num": "0003",
-            "urllist": "http://125.210.158.10:8060/live/CCTV3HD_H265.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225589/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+            "urllist": "http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/4000000/mnf.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225589/index.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
         },
         {
             "itemid": "uid00",
