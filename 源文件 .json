@@ -972,7 +972,13 @@
             "name": "CCTV-4K",
             "num": "0162",
             "urllist": "http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8"
-        }
+        },
+           {
+            "itemid": "uid05",
+            "name": "花千骨",
+            "num": "0163",
+            "urllist": "http://jcloudcdnct.inter.ptqy.gitv.tv/tslive/c15_lb_qingshenshenyumengmeng_1080p_t10/c15_lb_qingshenshenyumengmeng_1080p_t10.m3u8?key=07a1a8c65197e1c425f81ea9f8e110c55&dis_k=490d9f73d07410dab8070399a771051c&dis_t=1552657975&dis_dz=CT-JiangSu_NanJing&dis_st=26&pv=0.2&qd_tvid=2193625423&qd_vipres=0&qd_scc=e680913297560f8e3f438799b61398a5&qd_sc=cc1f3d24df0cd5aca69c305f63d97950&qd_src=04022001010000000000&qd_ip=a6e3e2f&qd_uid=&qd_tm=1552657975997&qd_vip=0"
+        },
     ],
     "type": [
         {
