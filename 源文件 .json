@@ -934,7 +934,7 @@
             "itemid": "uid05",
             "name": "凤凰卫视HD",
             "num": "0156",
-            "urllist": "http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
+            "urllist": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
                 {
             "itemid": "uid05",
