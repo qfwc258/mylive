@@ -112,7 +112,7 @@
             "itemid": "uid00",
             "name": "CCTV-环球奇观",
             "num": "0019",
-            "urllist": "http://v.91kds.cn/a/pptv.m3u8?id=hqqg&ip=202.102.68.159&nwtime=1552530607&sign=bb9f39bd57a67b65fe23b9fbfc5a38d4"
+            "urllist": "http://v.91kds.cn/a/pptv.m3u8?id=hqqg&ip=202.102.68.59&nwtime=1552637329&sign=676eb5a79d5c5d33399b83edd9f588c5#http://jiasu1.peoplevideo.cn/hls/vCIBNHQQG/800/vCIBNHQQG.m3u8?wsSecret=ef8e03ddd09d67689d0833328d113110&wsTime=1552637235"
         },
         {
             "itemid": "uid00",
@@ -176,27 +176,27 @@
         },
         {
             "itemid": "uid00",
-            "name": "CHC家庭影院",
+            "name": "游戏风云",
             "num": "0030",
+            "urllist": "http://183.207.249.7/PLTV/2/224/3221226041/1.m3u8"
+        },
+        {
+            "itemid": "uid00",
+            "name": "CHC家庭影院",
+            "num": "0031",
             "urllist": "http://hnfh.chinashadt.com:1995/live/live8.stream/playlist.m3u8?myTokenPrefixCustomParameter=759&myTokenPrefixendtime=1552618006&myTokenPrefixhash=6MuprP6vmyEMGDwSackJqJDycaJQC7yN4oOR-U3gwgo="
         },
         {
             "itemid": "uid00",
             "name": "CHC动作电影",
-            "num": "0031",
+            "num": "0032",
             "urllist": "http://hbmc.chinashadt.com:2739/mc5/dzdy.stream_360p/playlist.m3u8?myTokenPrefixCustomParameter=682&myTokenPrefixendtime=1552617941&myTokenPrefixhash=WT0OV9nG3A2HGW0NOZjApiDzbYUvqorGUi9KiADi5g0="
         },
         {
             "itemid": "uid00",
             "name": "CHC高清电影",
-            "num": "0032",
-            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
-        },
-        {
-            "itemid": "uid00",
-            "name": "欢笑剧场",
             "num": "0033",
-            "urllist": "http://183.251.61.198/PLTV/88888888/224/3221226729/index.m3u8?icpid=88888888&from=0&popid=25&hms_devid=2140,203&prioritypopid=25&online=1552532424"
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
         },
         {
             "itemid": "uid01",
@@ -262,13 +262,13 @@
             "itemid": "uid01",
             "name": "优漫卡通",
             "num": "0044",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls#http://111.7.159.138/PLTV/88888888/224/3221225950/default.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "炫动卡通",
             "num": "0045",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls#http://183.207.249.7/PLTV/2/224/3221226047/1.m3u8"
         },
         {
             "itemid": "uid01",
@@ -936,7 +936,7 @@
             "num": "0156",
             "urllist": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8#http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8"
         },
-                {
+        {
             "itemid": "uid05",
             "name": "凤凰卫视资讯",
             "num": "0157",
