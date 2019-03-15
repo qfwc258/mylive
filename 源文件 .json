@@ -100,7 +100,7 @@
             "itemid": "uid00",
             "name": "CCTV-中国天气",
             "num": "0017",
-            "urllist": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8"
+            "urllist": "http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8#http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227438/1.m3u8"
         },
         {
             "itemid": "uid00",
@@ -172,7 +172,7 @@
             "itemid": "uid00",
             "name": "CCTV-世界地理",
             "num": "0029",
-            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_sjdl_1000/online.m3u8"
+            "urllist": "http://111.7.159.139/PLTV/88888888/224/3221226013/1.m3u8"
         },
         {
             "itemid": "uid00",
@@ -916,7 +916,7 @@
             "itemid": "uid05",
             "name": "翡翠台",
             "num": "0153",
-            "urllist": "http://alsource.pull.inke.cn/live/1551483099832762.flv"
+            "urllist": "http://alsource.pull.inke.cn/live/1552603028281112.m3u8"
         },
         {
             "itemid": "uid05",
