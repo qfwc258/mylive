@@ -413,7 +413,7 @@
             "itemid": "uid01",
             "name": "兵团卫视",
             "num": "0069",
-            "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/chunklist_w846804169.m3u8#http://ivi.bupt.edu.cn/hls/bttv.m3u8#http://117.156.28.119/270000001111/1110000100/index.m3u8"
+            "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8#http://ivi.bupt.edu.cn/hls/bttv.m3u8#http://117.156.28.119/270000001111/1110000100/index.m3u8"
         },
         {
             "itemid": "uid01",
