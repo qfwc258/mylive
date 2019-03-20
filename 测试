@@ -34,6 +34,7 @@ CCTV-老年福,http://live1.sxrtv.com/flvss?bitrate=800000&channel=LaoNianFu&sta
 游戏风云,http://113.142.90.204/chinanet4-live.bestvcdn.com.cn/live/program/live/yxfyhd/2300000/live.m3u8#http://183.207.249.7/PLTV/2/224/3221226041/1.m3u8
 GTV游戏竞技,http://tv07.tsytv.com.cn/liveho/youxijingji.stream/chunklist.m3u8
 电竞世界,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
+电子体育,http://livelnbfxmt.sobeycache.com/live/zb03.flv?auth_key=1589015937-0-0-1b63ad033478e76ad0c3e5b6e8bf708d
 欢笑剧场,http://183.207.249.15/PLTV/2/224/3221226031/1.m3u8
 CHC家庭影院,http://hnfh.chinashadt.com:1995/live/live8.stream/playlist.m3u8?myTokenPrefixCustomParameter=800&myTokenPrefixendtime=1552740858&myTokenPrefixhash=-8_3OraNsRD8m2PIcoOOOQo9QZHEgEi9w_STkxw1QRY=
 CHC动作电影,http://hbmc.chinashadt.com:2739/mc5/dzdy.stream_360p/playlist.m3u8?myTokenPrefixCustomParameter=682&myTokenPrefixendtime=1552617941&myTokenPrefixhash=WT0OV9nG3A2HGW0NOZjApiDzbYUvqorGUi9KiADi5g0=
@@ -79,6 +80,8 @@ CHC高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 内蒙古卫视,http://39.134.135.10:80/wh7f454c46tw731765597_1318669213/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZHmDWmjO9sPhJF2qffm4iY9dGnhB2%2BIsXZkkRfFnGmnw%3D%3D%3A20181012134335%2C54C57AADF598%2C183.93.146.195%2C20181012134335%2C10000100000000050000000000544155%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322597&from=1&hms_devid=663#http://124.232.231.246:6610/000000001001/201500000107/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240060_1/encoder/0/playlist.m3u8#rtsp://113.136.42.41:554/PLTV/88888888/224/3221226068/10000100000000060000000001759070_0.smil#http://ivi.bupt.edu.cn/hls/nmtv.m3u8#http://117.156.28.119/270000001111/1110000096/index.m3u8
 新疆卫视,http://111.13.111.163:80/wh7f454c46tw4367700_1704519746/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsazA3%2BJj5mm8a0x7z0tIEWGEJT0v10UgSo3zmZ8HthldA%3D%3D%3A20181012134953%2C54C57AADF598%2C183.93.146.195%2C20181012134953%2C10000100000000050000000000544166%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539323051&from=1&hms_devid=23#http://124.232.231.246:6610/000000001001/201500000116/index.m3u8?#http://1.180.237.9/live.aishang.ctlcdn.com/00000110240079_1/encoder/0/playlist.m3u8#rtsp://113.136.42.39:554/PLTV/88888888/224/3221226059/10000100000000060000000001759071_0.smil#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225942/10000100000000060000000000218836_0.smil#http://ivi.bupt.edu.cn/hls/xjtv.m3u8
 旅游卫视,http://111.40.205.92/PLTV/88888888/224/3221225639/index.m3u8#http://ivi.bupt.edu.cn/hls/lytv.m3u8#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225863/10000100000000060000000000218139_0.smil,tvming-TravelTV#rtsp://60.213.13.203:554/PLTV/88888888/224/3221225863/10000100000000060000000000218139_0.smil
+延边卫视,http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8#http://223.110.243.134/PLTV/4/224/3221227002/index.m3u8?icpid=88888888&from=0&hms_devid=3424,6304
+南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
 CIBN高清影视
 CIBN喜剧影院,http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
 CIBN军事,http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86
@@ -136,7 +139,6 @@ NewsTV农业致富,http://117.169.72.6:8080/ysten-businessmobile/live/nongyezf/1
 Newtv潮妈辣婆,http://223.110.245.170/PLTV/3/224/3221226983/index.m3u8
 Newtv炫舞未来,http://117.169.79.101:8080/PLTV/88888888/224/3221225768/index.m3u8
 电影轮播
-相声小品,http://117.156.28.119/270000001111/1110000112/index.m3u8
 黄渤,http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
 周星驰电影,http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
 林正英电影,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
