@@ -304,25 +304,25 @@
             "itemid": "uid01",
             "name": "金鹰卡通",
             "num": "0051",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/jinyingkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
             "name": "优漫卡通",
             "num": "0052",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live//youmankaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls#http://111.7.159.138/PLTV/88888888/224/3221225950/default.m3u8"
+            "urllist": "http://121.31.30.90:8085/ysten-business/live/youmankaton/jiema.m3u8?fmt=ts2hls#http://111.7.159.138/PLTV/88888888/224/3221225950/default.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "炫动卡通",
             "num": "0053",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/xuandongkaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls#http://183.207.249.7/PLTV/2/224/3221226047/1.m3u8"
+            "urllist": "http://121.31.30.90:8085/ysten-business/live/xuandongkaton/jiema.m3u8?fmt=ts2hls#http://183.207.249.7/PLTV/2/224/3221226047/1.m3u8"
         },
         {
             "itemid": "uid01",
             "name": "卡酷少儿",
             "num": "0054",
-            "urllist": "http://117.169.72.6:8080/ysten-businessmobile/live/ve/kakukaton/1.m3u8#http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
