@@ -515,25 +515,25 @@
             "itemid": "uid02",
             "name": "汽车频道",
             "num": "0086",
-            "urllist": "http://cdn1.cditv.cn/qichehigh/qicheHigh.flv/playlist.m3u8?wsSecret=8a99382ade372156dc5857a0acacf3cf&wsTime=5c9aef1c&wsSession=5b2705a2a05e6dea2db2d189-155365762883719&wsIPSercert=9f22df6a31f4719ee3594b5576eee226&wsMonitor=0"
+            "urllist": "http://cdn1.cditv.cn/qiche/qiche.flv/playlist.m3u8?wsSecret=f9e4823d2794c1cb629099e8aef4cc08&wsTime=5c9b781b"
         },
         {
             "itemid": "uid02",
             "name": "资讯新干线",
             "num": "0087",
-            "urllist": "http://cdn1.cditv.cn/zixunhigh/ZiXunHigh.flv/playlist.m3u8?wsSecret=57ca2e51e158f3f1a416c5dd7a6b73b1&wsTime=5c9af003&wsSession=5b2705a2a05e6dea2db2d189-155365785992062&wsIPSercert=9f22df6a31f4719ee3594b5576eee226&wsMonitor=0"
+            "urllist": "http://cdn1.cditv.cn/zixun/ZiXun.flv/playlist.m3u8?wsSecret=274b6649753fb6ea532879c573ef9923&wsTime=5c9b77b5"
         },
         {
             "itemid": "uid02",
             "name": "美食天府",
             "num": "0088",
-            "urllist": "http://cdn1.cditv.cn/cdtv7high/CDTV7High.flv/playlist.m3u8?wsSecret=f40da34f6787041347c135a5681914b1&wsTime=5c9af011&wsSession=5b2705a2a05e6dea2db2d189-155365785992062&wsIPSercert=9f22df6a31f4719ee3594b5576eee226&wsMonitor=0"
+            "urllist": "http://cdn1.cditv.cn/cdtv7/CDTV7.flv/playlist.m3u8?wsSecret=8654f07cbd1b2ee6640d937d19398f36&wsTime=5c9b785b#http://live.mudu.tv/watch/tfwyrk.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "梨园频道",
             "num": "0089",
-            "urllist": "http://live.hntv.tv:9602/live/live14/500k/tzwj_video.m3u8?KEY1=299e43855158efe40ff109018cb0eb30&KEY2=5c9b3c1f#http://117.158.206.60:9080/live/lypd.m3u8"
+            "urllist": "http://hnnz.chinashadt.com:1935/live/1004.stream/playlist.m3u8#http://117.158.206.60:9080/live/lypd.m3u8"
         },
         {
             "itemid": "uid02",
