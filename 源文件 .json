@@ -286,19 +286,19 @@
             "itemid": "uid00",
             "name": "CHC家庭影院",
             "num": "0048",
-            "urllist": "http://hnfh.chinashadt.com:1995/live/live8.stream/playlist.m3u8?myTokenPrefixCustomParameter=323&myTokenPrefixendtime=1553753253&myTokenPrefixhash=LMKIOMmfD6vR3eWipJfrFcjhBFdHFwrhHP9EpnjaA24="
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000119&amp;playtoken=ABCDEFGH&amp;auth=no#http://hnfh.chinashadt.com:1995/live/live8.stream/playlist.m3u8?myTokenPrefixCustomParameter=323&myTokenPrefixendtime=1553753253&myTokenPrefixhash=LMKIOMmfD6vR3eWipJfrFcjhBFdHFwrhHP9EpnjaA24="
         },
         {
             "itemid": "uid00",
             "name": "CHC动作电影",
             "num": "0049",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/chcatv"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000118&amp;playtoken=ABCDEFGH&amp;auth=no"
         },
         {
             "itemid": "uid00",
             "name": "CHC高清电影",
             "num": "0050",
-            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl?protocol=http&amp;playtype=live&amp;accesstoken=R5AAD4D40U308D6008K7735F9D6I28260FDDPBM2FB37DAWDD611999401&amp;programid=4200000180&amp;playtoken=ABCDEFGH&amp;auth=no#http://ivi.bupt.edu.cn/hls/chchd.m3u8"
         },
         {
             "itemid": "uid00",
