@@ -208,7 +208,7 @@
             "itemid": "uid01",
             "name": "陕西卫视",
             "num": "0035",
-            "urllist": "http://ivi.bupt.edu.cn/hls/sxtv.m3u8"
+            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/9149348477727203604/index.m3u8?channel-id=bestzb&Contentid=9149348477727203604&livemode=1&stbId=004003FF0016973198008422F154244C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=9149348477727203604&owchid=bestzb&owsid=5213780771862659685&AuthInfo=jWx7qO9MhFXCTZSiaDS6Mx8JD%2f4p4iJpjMlD3I7ELzbbXHPDsXU%2fVwoAQMQNJPZHPF9s9fKlNPxGSv9AN3JdsfYJGeAmQ9HH7ZMlGTGzacrEzE7TCkc%2boiohgRcbKjnv#http://111.13.111.160:80/wh7f454c46tw3989449284_1033152970/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYllGORsqroMDKaiT0OVEIgRHAflRn0fkrLOzqoIiWv9g%3D%3D%3A20181012133954%2C54C57AADF598%2C183.93.146.195%2C20181012133954%2C10000100000000050000000000544160%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539322377&from=1&hms_devid=43#http://111.12.110.86:6610/000000001000/7120278140251237664/1.m3u8?channel-id=ystenlive&Contentid=7120278140251237664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=e15b57852d9cd94f58b9ccb1755d812821vv&usergroup=g21077200000&version=1.0&owaccmark=7120278140251237664&owchid=ystenlive&owsid=4493204828792196790&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4DV3ewJWC1etrDH2DcWyNSc0Zsrfs%2f6s%2fxQpDh4%2fZHGrcEQunCtwBMfCcfq%2fnoHQqRwu6dY2fyhRi2XI%2b5w09T&IASHttpSessionId=SLB1155020180727153022661256"
         },
         {
             "itemid": "uid01",
@@ -406,7 +406,8 @@
             "itemid": "uid02",
             "name": "CCTV-第一剧场",
             "num": "0068",
-            "urllist": "http://tv07.tsytv.com.cn/liveho/diyijuchang.stream/playlist.m3u8?sign=215f3fd455485b5905c0f7aed648e9a8&t=5c9b0365"
+            "urllist": "http://tv07.tsytv.com.cn/liveho/diyijuchang.stream/playlist.m3u8?sign=55a60c6efdc8e193709071e9fd649c93&t=5c9b7420 
+"
         },
         {
             "itemid": "uid02",
