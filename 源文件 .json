@@ -286,7 +286,7 @@
             "itemid": "uid00",
             "name": "CHC家庭影院",
             "num": "0048",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/chctv"
+            "urllist": "http://hnfh.chinashadt.com:1995/live/live8.stream/playlist.m3u8?myTokenPrefixCustomParameter=323&myTokenPrefixendtime=1553753253&myTokenPrefixhash=LMKIOMmfD6vR3eWipJfrFcjhBFdHFwrhHP9EpnjaA24="
         },
         {
             "itemid": "uid00",
