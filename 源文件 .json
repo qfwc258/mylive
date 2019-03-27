@@ -298,7 +298,7 @@
             "itemid": "uid00",
             "name": "CHC高清电影",
             "num": "0050",
-            "urllist": "rtmp://ivi.bupt.edu.cn:1935/livetv/chchd"
+            "urllist": "http://ivi.bupt.edu.cn/hls/chchd.m3u8"
         },
         {
             "itemid": "uid00",
