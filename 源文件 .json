@@ -256,7 +256,7 @@
             "itemid": "uid00",
             "name": "梨园频道",
             "num": "0043",
-            "urllist": "http://live.hntv.tv:9602/live/live14/500k/tzwj_video.m3u8?KEY1=f96c7b92f7b3b572be22130bc4912c41&KEY2=5c9af0f1"
+            "urllist": "http://117.158.206.60:9080/live/lypd.m3u8"
         },
         {
             "itemid": "uid00",
