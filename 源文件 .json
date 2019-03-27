@@ -394,13 +394,13 @@
             "itemid": "uid02",
             "name": "CCTV-高尔夫.网球",
             "num": "0066",
-            "urllist": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8"
+            "urllist": "http://223.110.243.135/PLTV/4/224/3221227033/index.m3u8?icpid=88888888&from=0&hms_devid=3424,6304#http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/index.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "CCTV-发现之旅",
             "num": "0067",
-            "urllist": "http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
+            "urllist": "http://223.110.243.136/PLTV/4/224/3221227030/index.m3u8?icpid=88888888&from=0&hms_devid=3404,6304#http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
         },
         {
             "itemid": "uid02",
