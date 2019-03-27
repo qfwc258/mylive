@@ -134,9 +134,9 @@
         },
         {
             "itemid": "uid00",
-            "name": "CCTV-电视指南",
+            "name": "CCTV-发现之旅",
             "num": "0023",
-            "urllist": "http://61.161.250.41:8114/hls/index.m3u8?FvSeid=1&Fsv_ctype=lives&Fsv_otype=1&Provider_id=&Pcontent_id=&Fsv_chan_hls_se_idx=48"
+            "urllist": "http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
         },
         {
             "itemid": "uid00",
