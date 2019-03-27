@@ -220,7 +220,7 @@
             "itemid": "uid00",
             "name": "奕坛春秋",
             "num": "0037",
-            "urllist": "http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8"
+            "urllist": "http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8#http://223.110.245.139:80/PLTV/4/224/3221227031/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -262,7 +262,7 @@
             "itemid": "uid00",
             "name": "梨园频道",
             "num": "0044",
-            "urllist": "http://117.158.206.60:9080/live/lypd.m3u8"
+            "urllist": "http://live.hntv.tv:9602/live/live14/500k/tzwj_video.m3u8?KEY1=299e43855158efe40ff109018cb0eb30&KEY2=5c9b3c1f#http://117.158.206.60:9080/live/lypd.m3u8"
         },
         {
             "itemid": "uid00",
