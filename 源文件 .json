@@ -514,19 +514,19 @@
             "itemid": "uid02",
             "name": "汽车频道",
             "num": "0086",
-            "urllist": "http://cdn1.cditv.cn/qiche/qiche.flv?wsSecret=6f5e3913acc68a4bb0c973bf0331f89f&wsTime=5c9c3c40"
+            "urllist": "http://cdn1.cditv.cn/qiche/qiche.flv/playlist.m3u8?wsSecret=69fffd5bb3c9bfadd6e04356858ad62b&wsTime=5c9c41df"
         },
         {
             "itemid": "uid02",
             "name": "资讯新干线",
             "num": "0087",
-            "urllist": "http://cdn1.cditv.cn/zixun/ZiXun.flv?wsSecret=9b126a75bd86fe18703a9d02d36d614a&wsTime=5c9c3c8b"
+            "urllist": "http://cdn1.cditv.cn/zixun/ZiXun.flv/playlist.m3u8?wsSecret=2e277712251f62fb17742c883d35394c&wsTime=5c9c42e0"
         },
         {
             "itemid": "uid02",
             "name": "美食天府",
             "num": "0088",
-            "urllist": "http://cdn1.cditv.cn/cdtv7/CDTV7.flv?wsSecret=a7cb8661e0cf6a762224d29d0962ec44&wsTime=5c9c3c9f#http://live.mudu.tv/watch/tfwyrk.m3u8"
+            "urllist": "http://cdn1.cditv.cn/cdtv7/CDTV7.flv/playlist.m3u8?wsSecret=926c46415fc0b64756f0bfe12dc509c3&wsTime=5c9c42b7#http://live.mudu.tv/watch/tfwyrk.m3u8"
         },
         {
             "itemid": "uid02",
