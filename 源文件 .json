@@ -506,9 +506,9 @@
         },
         {
             "itemid": "uid02",
-            "name": "汽车频道",
+            "name": "MAX极速汽车",
             "num": "0085",
-            "urllist": "http://cdn1.cditv.cn/qichehigh/qicheHigh.flv/playlist.m3u8?wsSecret=fba54da33b6826162a7bbc6cfe6ff939&wsTime=5c9c44ee&wsSession=5b2705a2a05e6dea2db2d189-155374513457754&wsIPSercert=9f22df6a31f4719ee3594b5576eee226&wsMonitor=0"
+            "urllist": "http://202.107.188.232:5002/jishuqiche_hdcq-1.m3u8?token=s8&ct=&autoPlay=true"
         },
         {
             "itemid": "uid02",
@@ -520,13 +520,13 @@
             "itemid": "uid02",
             "name": "美食天府",
             "num": "0087",
-            "urllist": "http://cdn1.cditv.cn/cdtv7high/CDTV7High.flv/playlist.m3u8?wsSecret=6d90f93b032297d9744ae3fe07d568da&wsTime=5c9c453f&wsSession=a6ae39f3b8f2e8db4925c6c2-155374521605989&wsIPSercert=9f22df6a31f4719ee3594b5576eee226&wsMonitor=0#http://live.mudu.tv/watch/tfwyrk.m3u8"
+            "urllist": "http://live.mudu.tv/watch/tfwyrk.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "梨园频道",
             "num": "0088",
-            "urllist": "http://hnnz.chinashadt.com:1935/live/1004.stream/playlist.m3u8#http://117.158.206.60:9080/live/lypd.m3u8"
+            "urllist": "http://117.158.206.60:9080/live/lypd.m3u8"
         },
         {
             "itemid": "uid02",
