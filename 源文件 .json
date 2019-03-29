@@ -512,9 +512,9 @@
         },
         {
             "itemid": "uid02",
-            "name": "资讯新干线",
+            "name": "车迷频道",
             "num": "0086",
-            "urllist": "http://cdn1.cditv.cn/zixunhigh/ZiXunHigh.flv/playlist.m3u8?wsSecret=74f5fa81f7940d5961e83351e2dff6e9&wsTime=5c9c43bc&wsSession=a6ae39f3b8f2e8db4925c6c2-155374482928877&wsIPSercert=9f22df6a31f4719ee3594b5576eee226&wsMonitor=0"
+            "urllist": "http://livehls2-al.wasu.cn/cmpd/z.m3u8?auth_key=ab7c79c06a545025b97f59174bc73c3c-1553842130-dfe1209223f93c12cdd3417d53870d9f-&sk=33912d6d40db48c6a7e1e06557a1db2a&vid=1509890&cid=9&version=MIPlayer_V1.7.0&vtype=201708160001&sign=62bc4b8cf9e6baabe7c19ec191e8c36731221275"
         },
         {
             "itemid": "uid02",
