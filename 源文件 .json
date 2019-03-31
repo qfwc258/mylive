@@ -1282,24 +1282,42 @@
             "itemid": "uid06",
             "name": "凤凰卫视HD",
             "num": "0214",
-            "urllist": "http://123.249.76.157:10017/bysid/2.m3u8#http://123.249.76.157:10017/bysid/5.m3u8"
+            "urllist": "http://111.40.205.92/wh7f454c46tw1557663821_1426670808/PLTV/88888888/224/3221225684/index.m3u8?icpid=88888888&RTS=1554041552&from=0&hms_devid=183,223#http://112.50.243.10/PLTV/88888888/224/3221225900/3.m3u8#http://123.249.76.157:10017/bysid/2.m3u8#http://123.249.76.157:10017/bysid/5.m3u8"
         },
         {
             "itemid": "uid06",
             "name": "凤凰卫视资讯",
             "num": "0215",
-            "urllist": "http://123.249.76.157:10017/bysid/1.m3u8#http://123.249.76.157:10017/bysid/4.m3u8"
+            "urllist": "http://183.251.61.197/PLTV/88888888/224/3221225901/index.m3u8#http://112.50.243.10/PLTV/88888888/224/3221225901/3.m3u8#http://123.249.76.157:10017/bysid/1.m3u8#http://123.249.76.157:10017/bysid/4.m3u8"
+        },
+          {
+            "itemid": "uid06",
+            "name": "周口影视",
+            "num": "0216",
+            "urllist": "http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
+        },
+            {
+            "itemid": "uid06",
+            "name": "香港卫视",
+            "num": "0217",
+            "urllist": "http://zhibo.hkstv.tv/livestream/zb2yhapo/playlist.m3u8"
+        },
+            {
+            "itemid": "uid06",
+            "name": "澳门卫视",
+            "num": "0218",
+            "urllist": "http://stream.mastvnet.com/MSTV/SD/live.m3u8"
         },
         {
             "itemid": "uid06",
             "name": "漫威电影",
-            "num": "0216",
+            "num": "0219",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid06",
             "name": "CCTV-4K",
-            "num": "0217",
+            "num": "0220",
             "urllist": "http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8"
         }
     ],
