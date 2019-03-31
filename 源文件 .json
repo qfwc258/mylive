@@ -538,7 +538,7 @@
             "itemid": "uid02",
             "name": "梨园频道",
             "num": "0090",
-            "urllist": "http://live.hntv.tv:9602/live/live14/500k/tzwj_video.m3u8?KEY1=9efcd2ca118c69bb6b535ffa74625036&KEY2=5ca0bf99#http://hnnz.chinashadt.com:1935/live/1004.stream/playlist.m3u8#http://117.158.206.60:9080/live/lypd.m3u8"
+            "urllist": "http://117.158.206.60:9080/live/lypd.m3u8"
         },
         {
             "itemid": "uid02",
