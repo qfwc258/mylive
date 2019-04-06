@@ -512,9 +512,9 @@
         },
         {
             "itemid": "uid02",
-            "name": "新动漫",
+            "name": "上海纪实HD",
             "num": "0086",
-            "urllist": "http://livelnbfxmt.sobeycache.com/live/zb05.flv?auth_key=1590574642-0-0-c9f9320e9f67b8a75f296f82a6bb523d"
+            "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=7081356299464623208&livemode=1&authCode=3a&stbId=5A4003FF004735100000288CB8C35B5C&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid02",
@@ -634,7 +634,7 @@
             "itemid": "uid02",
             "name": "新视觉HD",
             "num": "0106",
-            "urllist": "http://113.142.90.138/chinanet4-live.bestvcdn.com.cn/live/program/live/xsjhd/4000000/live.m3u8#http://tv05.tsytv.com.cn/liveho/xinshijue-HD.stream/chunklist.m3u8"
+            "urllist": "http://tv05.tsytv.com.cn/liveho/xinshijue-HD.stream/chunklist.m3u8"
         },
         {
             "itemid": "uid03",
