@@ -142,7 +142,7 @@
             "itemid": "uid00",
             "name": "CCTV-高尔夫.网球",
             "num": "0024",
-            "urllist": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/1.m3u8#http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/1.m3u8"
+            "urllist": "http://39.135.17.173:6610/PLTV/88888888/224/3221225674/1/1000.m3u8#http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/1.m3u8#http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221226420/1.m3u8"
         },
         {
             "itemid": "uid00",
