@@ -112,7 +112,7 @@
             "itemid": "uid00",
             "name": "CCTV-新科动漫",
             "num": "0019",
-            "urllist": "http://39.135.17.173:6610/PLTV/88888888/224/3221225678/1/1000.m3u8?zte_bandwidth=1000&IASHttpSessionId=SLB840272019040805260412519018&ztecid=3221225678&bandwidth=2809856&ispcode=6&timeformat=local&channel=3221225678&fmt=ts2hls&m3u8_level=2&ZTEUPSTREAM=1"
+            "urllist": "http://39.135.17.173:6610/PLTV/88888888/224/3221225678/1/1000.m3u8"
         },
         {
             "itemid": "uid00",
