@@ -1412,9 +1412,15 @@
         },
          {
             "itemid": "uid06",
-            "name": "松松-1",
+            "name": "CCTV-11HD",
             "num": "0236",
-            "urllist": "http://2346180611.cloudvdn.com/a.m3u8?domain=24tl.qingk.cn&player=uxQAALdAmM22_ZMV&streamid=qingk24%3Aqingk24%2Fe016ba7577994875a2fe3f6eddc415d5&v3=1"
+            "urllist": "HTTP://124.47.34.189:80/wh7f454c46tw3167232298_766828744/PLTV/88888888/224/3221225853/index.m3u8"
+        },
+            {
+            "itemid": "uid06",
+            "name": "CCTV-15HD",
+            "num": "0237",
+            "urllist": "http://124.47.34.187:80/wh7f454c46tw1201575578_65948574/PLTV/88888888/224/3221225854/index.m3u8"
         }
     ],
     "type": [
