@@ -538,13 +538,13 @@
             "itemid": "uid02",
             "name": "CHC家庭影院",
             "num": "0090",
-            "urllist": "http://94.191.24.126:5005/nn_live/nn_x64/aWQ9MjMyLTEwMi0wMDUtMDgwJm5uX2FrPTAxZjQzOGQ1NWJiYzlkYjU0YmEyMjU1MDczYmJhOTljOTcmbnR0bD0xJm5waXBzPTEwLjIxLjE2LjEwMTo1MTAwJm5jbXNpZD0xMDkxMTkmbmdzPTVjYWM4YjFlMDAwZTM4MWIwMGIyMzg2Y2VhNzRlZTE3Jm5uZD1nemdkLmludGVybmV0Jm5zZD1nemdkLmludGVybmV0Jm5mdD10czJtM3U4Jm5uX3VzZXJfaWQ9MDEwMTAxMTYwOTEyMDEwMDAzMTMmbmR0PXBhZCZuZHY9MS4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuYWw9MDExZThiYWM1YzA2MDcwYWM5NDA2NmIwNDFkZTRkN2NiYWJmMmRiYzc2MDVhYg,,/232-102-005-080.m3u8#http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8"
+            "urllist": "http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "CHC动作电影",
             "num": "0091",
-            "urllist": "http://94.191.92.145:5005/nn_live/nn_x64/aWQ9MjMyLTEwMi0wMDUtMDgyJm5uX2FrPTAxMjBjNjU2OWQ5ZGVjZjk2YjIwNjJhNWI3MGMzOGUzNTAmbnR0bD0xJm5waXBzPTEwLjIxLjE2LjQ2OjUxMDAmbmNtc2lkPTEwOTIxNDUmbmdzPTVjYWM4OThhMDAwOGU0M2VhOGIzNWZlZWVjYWJkMDRjJm5uZD1nemdkLmludGVybmV0Jm5zZD1nemdkLmludGVybmV0Jm5mdD10czJtM3U4Jm5uX3VzZXJfaWQ9MDEwMTAxMTYwOTEyMDEwMDAzMTMmbmR0PXBhZCZuZHY9MS4wLjAuMC4wLlNDLUdaR0QtQVBBRC4wLjBfUmVsZWFzZSZuc3Q9aXB0diZuY2E9JTI2bmNvaSUzZFMzLVhza3ktUEhPTkVMWi0wNS1zaGF3ZW4mbmFsPTAxOGE4OWFjNWMwNjA3OGM3OGI2ZTlhZjA1NGU4MTBjMmFhNjVhMjRlNDY0MDI,/232-102-005-082.m3u8#http://hbmc.chinashadt.com:2739/mc5/dzdy.stream_360p/chunklist_w120450921_tkbXlUb2tlblByZWZpeEN1c3RvbVBhcmFtZXRlcj00MzgmbXlUb2tlblByZWZpeGVuZHRpbWU9MTU1NDc5MjM2NCZteVRva2VuUHJlZml4aGFzaD1LbFlwVzIzQXpIRGtHTGFKX3FwTW4tNEY1Wm5tYXByYkIzcm1HWV9HellnPQ==.m3u8"
+            "urllist": "http://hbmc.chinashadt.com:2739/mc5/dzdy.stream_360p/chunklist_w120450921_tkbXlUb2tlblByZWZpeEN1c3RvbVBhcmFtZXRlcj00MzgmbXlUb2tlblByZWZpeGVuZHRpbWU9MTU1NDc5MjM2NCZteVRva2VuUHJlZml4aGFzaD1LbFlwVzIzQXpIRGtHTGFKX3FwTW4tNEY1Wm5tYXByYkIzcm1HWV9HellnPQ==.m3u8"
         },
         {
             "itemid": "uid02",
@@ -1409,6 +1409,12 @@
             "name": "CCTV-4K",
             "num": "0235",
             "urllist": "http://39.134.176.157/PLTV/88888888/224/3221226539/index.m3u8"
+        },
+         {
+            "itemid": "uid06",
+            "name": "松松-1",
+            "num": "0236",
+            "urllist": "http://2346180611.cloudvdn.com/a.m3u8?domain=24tl.qingk.cn&player=uxQAALdAmM22_ZMV&streamid=qingk24%3Aqingk24%2Fe016ba7577994875a2fe3f6eddc415d5&v3=1"
         }
     ],
     "type": [
