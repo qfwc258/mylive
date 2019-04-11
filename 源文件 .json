@@ -1421,6 +1421,12 @@
             "name": "CCTV-15HD",
             "num": "0237",
             "urllist": "http://124.47.34.187:80/wh7f454c46tw1201575578_65948574/PLTV/88888888/224/3221225854/index.m3u8"
+        },
+              {
+            "itemid": "uid06",
+            "name": "全纪实",
+            "num": "0238",
+            "urllist": "http://111.48.34.211:80/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225911/1.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226014/index.m3u8"
         }
     ],
     "type": [
