@@ -572,7 +572,7 @@
         },
         {
             "itemid": "uid02",
-            "name": "金鹰纪实",
+            "name": "金鹰纪实HD",
             "num": "0096",
             "urllist": "http://124.232.231.246:6610/000000001001/201600020008/index.m3u8?A=&IASHttpSessionId=OTT3258620190420024912003070"
         },
@@ -608,129 +608,129 @@
         },
         {
             "itemid": "uid02",
-            "name": "河南武术",
+            "name": "文物宝库",
             "num": "0102",
+            "urllist": "http://live.hntv.tv:9602/live/live15/500k/tzwj_video.m3u8?KEY1=aa1ea9a13b97e7466e7faef6147adada&KEY2=5cba895a"
+        },
+        {
+            "itemid": "uid02",
+            "name": "河南武术",
+            "num": "0103",
             "urllist": "http://117.158.206.60:9080/live/wssj.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "梨园频道",
-            "num": "0103",
+            "num": "0104",
             "urllist": "http://39.135.17.168:6610/PLTV/88888888/224/3221225701/1/index.m3u8#http://117.158.206.60:9080/live/lypd.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "七彩戏剧",
-            "num": "0104",
+            "num": "0105",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=5379866194427087552&livemode=1&authCode=3a&stbId=BB4003FF004735100000288CB8C374BE&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid02",
             "name": "第一财经",
-            "num": "0105",
+            "num": "0106",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6617141658685778844&livemode=1&authCode=3a&stbId=CC4003FF004735100000288CB8C384AA&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://w1.livecdn.yicai.com/hls/live/CBN_sd/live.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "欢笑剧场",
-            "num": "0106",
+            "num": "0107",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6550198305014687851&livemode=1&authCode=3a&stbId=664003FF004735100000288CB809FE94&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000#http://183.207.249.15/PLTV/2/224/3221226031/1.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "都市频道",
-            "num": "0107",
+            "num": "0108",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6789517052815334336&livemode=1&authCode=3a&stbId=AF4003FF004735100000288CB8C377C6&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid02",
             "name": "都市剧场",
-            "num": "0108",
+            "num": "0109",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=6458566386506430130&livemode=1&authCode=3a&stbId=FF4003FF004735100000288CB8C35BFA&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid02",
             "name": "动漫秀场",
-            "num": "0109",
+            "num": "0110",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=9072176337701960899&livemode=1&authCode=3a&stbId=8B4003FF004735100000288CB8C375EE&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid02",
             "name": "生活时尚",
-            "num": "0110",
+            "num": "0111",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=8538616372715313491&livemode=1&authCode=3a&stbId=2D4003FF004735100000288CB809FD74&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid02",
             "name": "艺术人文",
-            "num": "0111",
+            "num": "0112",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=4624908642496875994&livemode=1&authCode=3a&stbId=BD4003FF004735100000288CB8C38192&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g0200000000"
         },
         {
             "itemid": "uid02",
             "name": "法制天地",
-            "num": "0112",
+            "num": "0113",
             "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&authCode=3a&stbId=F94003FF004735100000288CB8C34210&userToken=f6472225073c60884f0820afc2347bdc02vv&usergroup=g02000000000"
         },
         {
             "itemid": "uid03",
             "name": "徐克电影",
-            "num": "0113",
+            "num": "0114",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689447148-11551087544980471808-2789253872-10057-A-1525420294-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "王晶电影",
-            "num": "0114",
+            "num": "0115",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "黄渤电影",
-            "num": "0115",
+            "num": "0116",
             "urllist": "http://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "周星驰电影",
-            "num": "0116",
+            "num": "0117",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "成龙电影",
-            "num": "0117",
+            "num": "0118",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "林正英电影",
-            "num": "0118",
+            "num": "0119",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "岳云鹏",
-            "num": "0119",
+            "num": "0120",
             "urllist": "http://aldirect.hls.huya.com/huyalive/29106097-2689444502-11551076180497006592-2789253868-10057-A-1525419311-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "刘德华电影",
-            "num": "0120",
+            "num": "0121",
             "urllist": "http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8"
         },
         {
             "itemid": "uid03",
             "name": "周口影视",
-            "num": "0121",
-            "urllist": "http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
-        },
-        {
-            "itemid": "uid03",
-            "name": "仪陇影视",
             "num": "0122",
-            "urllist": "http://alhls.cdn.zhanqi.tv/zqlive/285305_4Cz3X.m3u8"
+            "urllist": "http://alhls.cdn.zhanqi.tv/zqlive/80918_cr4oy.m3u8"
         },
         {
             "itemid": "uid03",
