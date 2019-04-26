@@ -1480,13 +1480,13 @@
             "itemid": "uid05",
             "name": "凤凰卫视HD",
             "num": "0247",
-            "urllist": "http://111.40.205.78/wh7f454c46tw2138544910_2075946871/PLTV/88888888/224/3221225684/index.m3u8?icpid=88888888&RTS=1554705786&from=0&hms_devid=3,223"
+            "urllist": "http://123.249.76.157:10017/bysid/2.m3u8#http://123.249.76.157:10017/bysid/5.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "凤凰卫视资讯",
             "num": "0248",
-            "urllist": "http://111.40.205.87/PLTV/88888888/224/3221225686/index.m3u8"
+            "urllist": "http://123.249.76.157:10017/bysid/1.m3u8#http://123.249.76.157:10017/bysid/4.m3u8"
         },
         {
             "itemid": "uid05",
