@@ -526,19 +526,19 @@
             "itemid": "uid02",
             "name": "CHC家庭影院",
             "num": "0088",
-            "urllist": "http://222.207.48.30/hls/chctv.m3u8#http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8"
+            "urllist": "http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3BA12U30982008K774A5DD2I1FBFDE72PBM2FB5E0FV10454Z6B731WE279D945F21&playtoken=ABCDEFGHI&auth=no%20&programid=4200851597.m3u8#http://222.207.48.30/hls/chctv.m3u8#http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "CHC动作电影",
             "num": "0089",
-            "urllist": "http://222.207.48.30/hls/chcatv.m3u8"
+            "urllist": "http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3BA12U30982008K774A5DD2I1FBFDE72PBM2FB5E0FV10454Z6B731WE279D945F21&playtoken=ABCDEFGHI&auth=no%20&programid=4200851595.m3u8#http://222.207.48.30/hls/chcatv.m3u8"
         },
         {
             "itemid": "uid02",
             "name": "CHC高清电影",
             "num": "0090",
-            "urllist": "http://202.120.35.185/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8?&virtualDomain=001.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/chchd.m3u8"
+            "urllist": "http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3BA12U30982008K774A5DD2I1FBFDE72PBM2FB5E0FV10454Z6B731WE279D945F21&playtoken=ABCDEFGHI&auth=no%20&programid=4200851596.m3u8#http://202.120.35.185/hls/chchd.m3u8#http://ivi.bupt.edu.cn/hls/chchd.m3u8?&virtualDomain=001.live_hls.zte.com#http://ivi.bupt.edu.cn/hls/chchd.m3u8"
         },
         {
             "itemid": "uid02",
