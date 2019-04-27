@@ -124,7 +124,7 @@
             "itemid": "uid00",
             "name": "CCTV-央视文化精品",
             "num": "0021",
-            "urllist": "http://39.135.17.170:6610/PLTV/88888888/224/3221225675/1/1000.m3u8#http://tv07.tsytv.com.cn/liveho/yangshijingpin.stream/playlist.m3u8?sign=517a9f212f8a2657b4c2f7f798f3d7d1&t=5cac0718"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000075#http://39.135.17.170:6610/PLTV/88888888/224/3221225675/1/1000.m3u8#http://tv07.tsytv.com.cn/liveho/yangshijingpin.stream/playlist.m3u8?sign=517a9f212f8a2657b4c2f7f798f3d7d1&t=5cac0718"
         },
         {
             "itemid": "uid00",
@@ -148,55 +148,55 @@
             "itemid": "uid00",
             "name": "CCTV-发现之旅",
             "num": "0025",
-            "urllist": "http://223.110.243.136/PLTV/4/224/3221227030/index.m3u8?icpid=88888888&from=0&hms_devid=3404,6304#http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000087#http://223.110.243.136/PLTV/4/224/3221227030/index.m3u8?icpid=88888888&from=0&hms_devid=3404,6304#http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-国防军事",
             "num": "0026",
-            "urllist": "http://39.135.17.171:6610/PLTV/88888888/224/3221225676/1/index.m3u8#http://111.7.159.137/PLTV/88888888/224/3221226019/index.m3u8#http://222.207.48.30/hls/gfjstv.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000076#http://39.135.17.171:6610/PLTV/88888888/224/3221225676/1/index.m3u8#http://111.7.159.137/PLTV/88888888/224/3221226019/index.m3u8#http://222.207.48.30/hls/gfjstv.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-第一剧场",
             "num": "0027",
-            "urllist": "http://39.135.17.171:6610/PLTV/88888888/224/3221225702/1/index.m3u8#http://tv07.tsytv.com.cn/liveho/diyijuchang.stream/chunklist.m3u8?sign=df83691e289d2aa27089ee9edda06868&t=5c9c3f71"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000080#http://39.135.17.171:6610/PLTV/88888888/224/3221225702/1/index.m3u8#http://tv07.tsytv.com.cn/liveho/diyijuchang.stream/chunklist.m3u8?sign=df83691e289d2aa27089ee9edda06868&t=5c9c3f71"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-怀旧剧场",
             "num": "0028",
-            "urllist": "http://39.135.17.171:6610/PLTV/88888888/224/3221225765/1/index.m3u8#http://tv07.tsytv.com.cn/liveho/huaijiujuchang.stream/chunklist.m3u8?sign=fadbdf10ddf88944dcd438419738c44a&t=5c9b03fd#http://live-lt-hls-yf.jstv.com/live/cctv_hjjc_1000/online.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000077#http://39.135.17.171:6610/PLTV/88888888/224/3221225765/1/index.m3u8#http://tv07.tsytv.com.cn/liveho/huaijiujuchang.stream/chunklist.m3u8?sign=fadbdf10ddf88944dcd438419738c44a&t=5c9b03fd#http://live-lt-hls-yf.jstv.com/live/cctv_hjjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云剧场",
             "num": "0029",
-            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyjc_1000/online.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000079#http://live-lt-hls-yf.jstv.com/live/cctv_fyjc_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云足球",
             "num": "0030",
-            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyzq_1000/online.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000078#http://live-lt-hls-yf.jstv.com/live/cctv_fyzq_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-老故事",
             "num": "0031",
-            "urllist": "http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000089#http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-风云音乐",
             "num": "0032",
-            "urllist": "http://live-lt-hls-yf.jstv.com/live/cctv_fyyy_1000/online.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000096#http://live-lt-hls-yf.jstv.com/live/cctv_fyyy_1000/online.m3u8"
         },
         {
             "itemid": "uid00",
             "name": "CCTV-世界地理",
             "num": "0033",
-            "urllist": "http://111.7.159.140/PLTV/88888888/224/3221226013/index.m3u8#http://tv07.tsytv.com.cn/liveho/shijiedili.stream/chunklist.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000081#http://111.7.159.140/PLTV/88888888/224/3221226013/index.m3u8#http://tv07.tsytv.com.cn/liveho/shijiedili.stream/chunklist.m3u8"
         },
         {
             "itemid": "uid01",
@@ -496,7 +496,7 @@
             "itemid": "uid02",
             "name": "环球奇观",
             "num": "0083",
-            "urllist": "http://39.135.17.183:6610/PLTV/88888888/224/3221225681/1/index.m3u8"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000088#http://39.135.17.183:6610/PLTV/88888888/224/3221225681/1/index.m3u8"
         },
         {
             "itemid": "uid02",
@@ -640,7 +640,7 @@
             "itemid": "uid02",
             "name": "GTV网络棋牌",
             "num": "0107",
-            "urllist": "http://livelnbfxmt.sobeycache.com/live/zb04.flv?auth_key=1590574642-0-0-2baa5550cf9a0ef82f94354a9fe4be63"
+            "urllist": "http://httpdvb.slave.yqdtv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC3C32BU30966008K7738001FI1FBFDE72PBM2FBA02FV10428Z2240DWE279EF7BFB2&playtoken=ABCDEFGHI&programid=4200000117#http://livelnbfxmt.sobeycache.com/live/zb04.flv?auth_key=1590574642-0-0-2baa5550cf9a0ef82f94354a9fe4be63"
         },
         {
             "itemid": "uid02",
