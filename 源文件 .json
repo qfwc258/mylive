@@ -130,7 +130,7 @@
             "itemid": "uid00",
             "name": "CCTV-女性时尚",
             "num": "0022",
-            "urllist": "http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8"
+            "urllist": "http://39.135.17.178:6610/PLTV/88888888/224/3221225699/1/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -148,7 +148,7 @@
             "itemid": "uid00",
             "name": "CCTV-发现之旅",
             "num": "0025",
-            "urllist": "http://223.110.243.136/PLTV/4/224/3221227030/index.m3u8?icpid=88888888&from=0&hms_devid=3404,6304#http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
+            "urllist": "http://223.110.241.204:6610/gitv/live1/G_FAXIANZL/G_FAXIANZL/1.m3u8#http://223.110.243.136/PLTV/4/224/3221227030/index.m3u8?icpid=88888888&from=0&hms_devid=3404,6304#http://183.207.248.11/PLTV/4/224/3221227030/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -196,7 +196,7 @@
             "itemid": "uid00",
             "name": "CCTV-世界地理",
             "num": "0033",
-            "urllist": "http://111.7.159.140/PLTV/88888888/224/3221226013/index.m3u8#http://tv07.tsytv.com.cn/liveho/shijiedili.stream/chunklist.m3u8"
+            "urllist": "http://39.135.17.173:6610/PLTV/88888888/224/3221225733/1/index.m3u8#http://111.7.159.140/PLTV/88888888/224/3221226013/index.m3u8#http://tv07.tsytv.com.cn/liveho/shijiedili.stream/chunklist.m3u8"
         },
         {
             "itemid": "uid01",
