@@ -1625,6 +1625,18 @@
             "name": "新沂生活",
             "num": "0271",
             "urllist": "http://app.yishuweb.com:81/live2/livestream_ff.m3u8"
+        },
+          {
+            "itemid": "uid05",
+            "name": "CCTV-11高清",
+            "num": "0272",
+            "urllist": "http://60.255.48.134:9090/live/cctv11_4000.m3u8"
+        },
+          {
+            "itemid": "uid05",
+            "name": "CCTV-15高清",
+            "num": "0273",
+            "urllist": "http://60.255.48.134:9090/live/cctv15_4000.m3u8"
         }
     ],
     "type": [
