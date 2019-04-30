@@ -1745,7 +1745,14 @@
             "name": "新沂生活",
             "num": "0291",
             "urllist": "http://app.yishuweb.com:81/live2/livestream_ff.m3u8"
+        },
+          {
+            "itemid": "uid05",
+            "name": "无信号测试",
+            "num": "0292",
+            "urllist": "http://raw.githubusercontent.com/958357794/mylive/master/exit_dialog_bg.jpg"
         }
+       
     ],
     "type": [
         {
