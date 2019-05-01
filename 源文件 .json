@@ -398,9 +398,9 @@
         },
         {
             "itemid": "uid01",
-            "name": "旅游卫视",
+            "name": "海南卫视",
             "num": "0067",
-            "urllist": "http://111.40.205.92/PLTV/88888888/224/3221225639/index.m3u8"
+            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/6187345409661409786/index.m3u8?channel-id=bestzb&Contentid=6187345409661409786&livemode=1&stbId=004003FF0011235893008422F155610C&userToken=22da83031e59d012e61af366ad30871e02vv&usergroup=g02020000000&version=1.0&owaccmark=6187345409661409786&owchid=bestzb&owsid=5213780771862624996&AuthInfo=AwGeTDvRf%2bx0%2fEn21utOYt1X%2b30fU3QumTJpAhv2SjTPW3FsZ9jhIR2EjNvId7j9%2bPJznSK31lG1Q%2bg30Itr05ZI8Z4Dgk0%2bkG88fRcM2GqdJ49L%2bQIdDrYGK3xmcqrc#http://111.40.205.92/PLTV/88888888/224/3221225639/index.m3u8"
         },
         {
             "itemid": "uid01",
