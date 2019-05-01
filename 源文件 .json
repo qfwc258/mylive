@@ -58,7 +58,7 @@
             "itemid": "uid00",
             "name": "CCTV-9记录",
             "num": "0010",
-            "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=hnbblive&Contentid=5117943747640013023&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b#http://ivi.bupt.edu.cn/hls/cctv9.m3u8#http://111.44.138.251:16415/contents41/live/CHANNELb12aa23034ca4cada85b7643220a52fc/HD_8752050935710151986/live.m3u8#http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8"
+            "urllist": "http://httpdvb.slave.pyitv.com:13164/playurl.m3u8?playtype=live&protocol=hls&accesstoken=R5CC9070DU3099A008K774B7A0EI1CB9DE72PBM2FB5BB9V10454Z6B731WE286CA36BD2&playtoken=ABCDEFGHI&auth=no&programid=4200851582.m3u8#http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=hnbblive&Contentid=5117943747640013023&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b#http://ivi.bupt.edu.cn/hls/cctv9.m3u8#http://111.44.138.251:16415/contents41/live/CHANNELb12aa23034ca4cada85b7643220a52fc/HD_8752050935710151986/live.m3u8#http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8"
         },
         {
             "itemid": "uid00",
