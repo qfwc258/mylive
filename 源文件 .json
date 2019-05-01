@@ -58,7 +58,7 @@
             "itemid": "uid00",
             "name": "CCTV-9记录",
             "num": "0010",
-            "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=hnbblive&Contentid=5117943747640013023&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b#http://ivi.bupt.edu.cn/hls/cctv9.m3u8#http://111.44.138.251:16415/contents41/live/CHANNELb12aa23034ca4cada85b7643220a52fc/HD_8752050935710151986/live.m3u8#http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8"
+            "urllist": "http://39.134.134.57:80/wh7f454c46tw239212216_1895396930/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226236/index.m3u8?servicetype=2&icpid=&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsYgecBmJJTI9WluWnpD1T4A4vF%2F9LPPxsOflJLYH8mGsg%3D%3D%3A20181012131506%2C54C57AADF598%2C183.93.146.195%2C20181012131506%2C10000100000000050000000002172008%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&icpid=88888888&RTS=1539320965&from=1&hms_devid=3443#http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=hnbblive&Contentid=5117943747640013023&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b#http://ivi.bupt.edu.cn/hls/cctv9.m3u8#http://111.44.138.251:16415/contents41/live/CHANNELb12aa23034ca4cada85b7643220a52fc/HD_8752050935710151986/live.m3u8#http://221.6.85.150:9000/live/cctv9_800/cctv9_800.m3u8"
         },
         {
             "itemid": "uid00",
