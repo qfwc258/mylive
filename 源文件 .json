@@ -1588,7 +1588,7 @@
             "itemid": "uid05",
             "name": "寰宇新闻2台",
             "num": "0265",
-            "urllist": "http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8?token=vg7VrxRKxQKxmzSMguz_sg&time=1554518626136"
+            "urllist": "http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8#http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8?token=vg7VrxRKxQKxmzSMguz_sg&time=1554518626136"
         },
         {
             "itemid": "uid05",
@@ -1612,19 +1612,19 @@
             "itemid": "uid05",
             "name": "龙华电影",
             "num": "0269",
-            "urllist": "http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&time=1554530036919"
+            "urllist": "http://ms006.happytv.com.tw:80/live/xm80UCshgLnL4f0y/index.m3u8#http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&time=1554530036919"
         },
         {
             "itemid": "uid05",
             "name": "龙华日韩",
             "num": "0270",
-            "urllist": "http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&time=1554530058242"
+            "urllist": "http://ms006.happytv.com.tw:80/live/51puauUecCarOzug/index.m3u8#http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&time=1554530058242"
         },
         {
             "itemid": "uid05",
             "name": "龙华偶像",
             "num": "0271",
-            "urllist": "http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195"
+            "urllist": "http://ms006.happytv.com.tw:80/live/jluCtnqIsVG31tpb/index.m3u8#http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195"
         },
         {
             "itemid": "uid05",
