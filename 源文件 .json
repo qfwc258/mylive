@@ -1580,158 +1580,176 @@
         },
         {
             "itemid": "uid05",
-            "name": "寰宇新闻",
+            "name": "翡翠台",
             "num": "0264",
+            "urllist": "http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "翡翠台J2",
+            "num": "0265",
+            "urllist": "http://zblive.bawangtian.com/live/j2_1000/index.m3u8?uid=o4i5d1Q3WhPICiCagMplcSEDbsaE&t=1556905061&k=9AA1670B34AF1BADA909110182F0EDB9#http://bsypull.seastart.tv/sstlive/r7122/playlist.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "壹新闻",
+            "num": "0266",
+            "urllist": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8"
+        },
+        {
+            "itemid": "uid05",
+            "name": "寰宇新闻",
+            "num": "0267",
             "urllist": "http://ms003.happytv.com.tw/live/Btl59TBpbXESUqTf/index.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "寰宇新闻2台",
-            "num": "0265",
+            "num": "0268",
             "urllist": "http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8#http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8?token=vg7VrxRKxQKxmzSMguz_sg&time=1554518626136"
         },
         {
             "itemid": "uid05",
             "name": "天映频道",
-            "num": "0266",
+            "num": "0269",
             "urllist": "http://210.210.155.35/qwr9ew/s/s33/index2.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "天映经典",
-            "num": "0267",
+            "num": "0270",
             "urllist": "http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015876456&ct=17975&tsum=7983c92efc68efb3d97bdef4e37a8452"
         },
         {
             "itemid": "uid05",
             "name": "卫视点心",
-            "num": "0268",
+            "num": "0271",
             "urllist": "http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE"
         },
         {
             "itemid": "uid05",
             "name": "龙华电影",
-            "num": "0269",
+            "num": "0272",
             "urllist": "http://ms006.happytv.com.tw:80/live/xm80UCshgLnL4f0y/index.m3u8#http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&time=1554530036919"
         },
         {
             "itemid": "uid05",
             "name": "龙华日韩",
-            "num": "0270",
+            "num": "0273",
             "urllist": "http://ms006.happytv.com.tw:80/live/51puauUecCarOzug/index.m3u8#http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&time=1554530058242"
         },
         {
             "itemid": "uid05",
             "name": "龙华偶像",
-            "num": "0271",
+            "num": "0274",
             "urllist": "http://ms006.happytv.com.tw:80/live/jluCtnqIsVG31tpb/index.m3u8#http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&time=1554530150195"
         },
         {
             "itemid": "uid05",
             "name": "新唐人中国台",
-            "num": "0272",
+            "num": "0275",
             "urllist": "http://live2.ntdimg.com/cnlive/playlist.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "新华社中文",
-            "num": "0273",
+            "num": "0276",
             "urllist": "http://live.xinhuashixun.com/live/chn01/desc.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "江苏靓妆",
-            "num": "0274",
+            "num": "0277",
             "urllist": "http://39.135.16.142:6060/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid05",
             "name": "南京教科",
-            "num": "0275",
+            "num": "0278",
             "urllist": "http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京少儿",
-            "num": "0276",
+            "num": "0279",
             "urllist": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京生活",
-            "num": "0277",
+            "num": "0280",
             "urllist": "http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京十八",
-            "num": "0278",
+            "num": "0281",
             "urllist": "http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京新闻综合",
-            "num": "0279",
+            "num": "0282",
             "urllist": "http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京信息",
-            "num": "0280",
+            "num": "0283",
             "urllist": "http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京影视",
-            "num": "0281",
+            "num": "0284",
             "urllist": "http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "南京娱乐",
-            "num": "0282",
+            "num": "0285",
             "urllist": "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "徐州-1",
-            "num": "0283",
+            "num": "0286",
             "urllist": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8#http://stream1.huaihai.tv/xwzh/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "徐州-2",
-            "num": "0284",
+            "num": "0287",
             "urllist": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8#http://stream1.huaihai.tv/jjsh/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "徐州-3",
-            "num": "0285",
+            "num": "0288",
             "urllist": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "徐州-4",
-            "num": "0286",
+            "num": "0289",
             "urllist": "http://stream1.huaihai.tv/ggpd/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "邳州综合",
-            "num": "0287",
+            "num": "0290",
             "urllist": "http://stream.pznews.com/pztv2/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "邳州综艺",
-            "num": "0288",
+            "num": "0291",
             "urllist": "http://stream.pznews.com/pztv1/sd/live.m3u8"
         },
         {
             "itemid": "uid05",
             "name": "无信号测试",
-            "num": "0289",
+            "num": "0292",
             "urllist": "http://raw.githubusercontent.com/958357794/mylive/master/%E7%94%B5%E8%A7%86%E6%97%A0%E4%BF%A1%E5%8F%B7%E6%97%B6%E7%9A%84%E7%B4%A0%E6%9D%90.mp4"
         }
     ],
