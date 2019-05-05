@@ -16,7 +16,7 @@
             "itemid": "uid00",
             "name": "CCTV-3综艺",
             "num": "0003",
-            "urllist": "http://125.77.146.28/chinanet4-live.bestvcdn.com.cn/live/program/live/cctv3hd/4000000/mnf.m3u8#http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8"
+            "urllist": "http://39.135.32.28:6610/000000001000/1000000001000011218/index.m3u8?i=&IASO"
         },
         {
             "itemid": "uid00",
