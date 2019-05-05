@@ -1748,9 +1748,9 @@
         },
         {
             "itemid": "uid05",
-            "name": "无信号测试",
+            "name": "东森洋片",
             "num": "0292",
-            "urllist": "http://raw.githubusercontent.com/958357794/mylive/master/%E7%94%B5%E8%A7%86%E6%97%A0%E4%BF%A1%E5%8F%B7%E6%97%B6%E7%9A%84%E7%B4%A0%E6%9D%90.mp4"
+            "urllist": "http://api2.iptv888.com/v/stv.m3u8?token=5OFCknKgw96e1kneD8JyWbE2&id=ETTVYP"
         }
     ],
     "type": [
