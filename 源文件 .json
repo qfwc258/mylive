@@ -370,7 +370,7 @@
             "itemid": "uid01",
             "name": "广西卫视",
             "num": "0062",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/4676357582335641620/index.m3u8?channel-id=bestzb&amp;Contentid=4676357582335641620&amp;livemode=1&amp;stbId=004003FF0017792426008422F154603C&amp;userToken=22da83031e59d012e61af366ad30871e02vv&amp;usergroup=g02020000000&amp;version=1.0&amp;owaccmark=4676357582335641620&amp;owchid=bestzb&amp;owsid=5213780771862609301&amp;AuthInfo=hM8Idv8LnUBGr5Rqb69%2fxy8kZgqVxA0ucgOd%2bsaTyzm3OeFqHPtn2swf6q8QGSx9ns3uA3L%2b4ms7zbxl6QP8w7FaKSuBiCMXgizbHt%2bpyN0aN7V4RFOA1qQ66Yp89%2biI#http://223.110.242.130:6610/cntv/live1/guangxistv/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225622/index.m3u8"
+            "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=hnbblive&Contentid=5411468428139664300&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b"
         },
         {
             "itemid": "uid01",
@@ -382,7 +382,7 @@
             "itemid": "uid01",
             "name": "兵团卫视",
             "num": "0064",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/8683210039696467587/index.m3u8?channel-id=bestzb&amp;Contentid=8683210039696467587&amp;livemode=1&amp;stbId=004003FF0094127061008422F158781C&amp;userToken=22da83031e59d012e61af366ad30871e02vv&amp;usergroup=g02020000000&amp;version=1.0&amp;owaccmark=8683210039696467587&amp;owchid=bestzb&amp;owsid=5213780771862680974&amp;AuthInfo=Fv0QYJf30gGhu9TBDreesYqAwmd8eIBkPOi8n204A7%2fE5yVLuuRmDzYxeE5zQWJm8E5bflqc3GAjIAd9IhQ3oXPAraiHxTbdC0evBy69iArI6m496seS1OQH0oG3KgQb#http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8#http://117.156.28.119/270000001111/1110000100/index.m3u8"
+            "urllist": "http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8#http://117.156.28.119/270000001111/1110000100/index.m3u8"
         },
         {
             "itemid": "uid01",
@@ -424,7 +424,7 @@
             "itemid": "uid01",
             "name": "金鹰卡通",
             "num": "0071",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/8812606677069767341/index.m3u8?channel-id=bestzb&amp;Contentid=8812606677069767341&amp;livemode=1&amp;stbId=004003FF0053333875008422F150742C&amp;userToken=22da83031e59d012e61af366ad30871e02vv&amp;usergroup=g02020000000&amp;version=1.0&amp;owaccmark=8812606677069767341&amp;owchid=bestzb&amp;owsid=5213780771862703819&amp;AuthInfo=yHQRFAED65LC35NLmu0D%2byuvGfUG%2bapoLHFyh99qTfcEuyqqgKEsE%2bBOTE13GssBsr4dieXemEqlmEshlFTgOUXkTDJ7UdMm82tqowB0IVf8pgo%2fGZOCCXCnoHuCy%2fko#http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://121.31.30.90:8085/ysten-business/live/jinyingkaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
@@ -442,7 +442,7 @@
             "itemid": "uid01",
             "name": "卡酷少儿",
             "num": "0074",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/7851974109718180595/index.m3u8?channel-id=bestzb&amp;Contentid=7851974109718180595&amp;livemode=1&amp;stbId=004003FF0030767144008422F150111C&amp;userToken=22da83031e59d012e61af366ad30871e02vv&amp;usergroup=g02020000000&amp;version=1.0&amp;owaccmark=7851974109718180595&amp;owchid=bestzb&amp;owsid=5213780771862708747&amp;AuthInfo=laKyyAdhKoalzAsRlS7loqmuS7PSERrrSE%2frj7z4YqJn%2bgZNruEYIPJeQFWFmz%2bU8FLjzzC%2f5MlETrpRjX9X0beX81qee%2flescR0Xw1j2jngFfzN3Pe5sQKR5FmYKKuf#http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
+            "urllist": "http://121.31.30.90:8085/ysten-business/live/kakukaton/jiema.m3u8?fmt=ts2hls"
         },
         {
             "itemid": "uid01",
