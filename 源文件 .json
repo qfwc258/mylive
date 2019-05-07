@@ -28,7 +28,7 @@
             "itemid": "uid00",
             "name": "CCTV-5体育",
             "num": "0005",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/cctv-5/yst.m3u8"
+            "urllist": "http://cctvcnch5c.v.wscdns.com/live/cctv5_2/index.m3u8"
         },
         {
             "itemid": "uid00",
