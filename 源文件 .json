@@ -406,7 +406,7 @@
             "itemid": "uid01",
             "name": "海南卫视",
             "num": "0068",
-            "urllist": "http://111.40.205.92/PLTV/88888888/224/3221225639/index.m3u8"
+            "urllist": "http://pili-live-hls.livelvy.sobeycache.com/livelvy/lvy1.m3u8"
         },
         {
             "itemid": "uid01",
