@@ -40,7 +40,7 @@
             "itemid": "uid00",
             "name": "CCTV-6电影",
             "num": "0007",
-            "urllist": "http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227301/index.m3u8#http://111.40.205.72/PLTV/88888888/224/3221225607/index.m3u8"
+            "urllist": "http://cctvtxyh5c.liveplay.myqcloud.com/live/cctv6_2/index.m3u8#http://yztv.wshls.homecdn.com/live/11ee8.m3u8?t=1557193953&k=e8a95bb853348f7ebc4a0d712924df16"
         },
         {
             "itemid": "uid00",
@@ -52,7 +52,7 @@
             "itemid": "uid00",
             "name": "CCTV-8电视剧",
             "num": "0009",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/8845820895945979833/index.m3u8?channel-id=bestzb&amp;Contentid=8845820895945979833&amp;livemode=1&amp;stbId=0A4003FF004735100000288CB80A2AD2&amp;userToken=f6472225073c60884f0820afc2347bdc02vv&amp;usergroup=g02000000000&amp;version=1.0&amp;owaccmark=8845820895945979833&amp;owchid=bestzb&amp;owsid=7807854155074904095&amp;AuthInfo=tycqWjp28nnnAAn8l9xhoZPWUHBmx%2brIkY0GkVueku5HX44FfDCRcZzdkr9BF87U%2baoHPBCTq5qMbUxxb3tJCZzb6raXtVeSiF5ZCae5%2fWzf1zbQZNvOG1yBO839eqHX#http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8#http://cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/8845820895945979833/index.m3u8?channel-id=bestzb&amp;Contentid=8845820895945979833&amp;livemode=1&amp;stbId=004103000002089018289C62AB5E8380&amp;version=1.0&amp;owaccmark=8845820895945979833&amp;owchid=bestzb&amp;owsid=7879911747106039117&amp;AuthInfo=nWG8OErPFI0nRz9eVs3nnAyOOzd1bnDs2rI3OwGw9BkPLZU3YLVmbwadIfWyBuQyaunDZQiQGfIFmnyIzwLjLCZVe78Q1mE9jMLOVUYrUPqZn6U43YO0oUooeztTqFYA"
+            "urllist": "http://cctvcnch5c.v.wscdns.com/live/cctv8_2/index.m3u8"
         },
         {
             "itemid": "uid00",
@@ -268,13 +268,13 @@
             "itemid": "uid01",
             "name": "深圳卫视",
             "num": "0045",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn/000000001000/8664139335630741688/index.m3u8?channel-id=bestzb&amp;Contentid=8664139335630741688&amp;livemode=1&amp;stbId=004003FF0042860242008422F154341C&amp;userToken=22da83031e59d012e61af366ad30871e02vv&amp;usergroup=g02020000000&amp;version=1.0&amp;owaccmark=8664139335630741688&amp;owchid=bestzb&amp;owsid=5213780771862336449&amp;AuthInfo=QfpT1IZpgLXPA0XrPKyoHReo45MzzNF8aOFk5JPzg%2fHbG7tUZ3atGp9%2fn7NAQWYLYjnw9N9igDzTEDbfKargE0mZfCFUQ0RmE8ouTg2PdLzuuEuXCCDtGq5m57TiLOV3#http://39.134.134.59:80/wh7f454c46tw416748621_1558866135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/index.m3u8?servicetype=2&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZ04xfDqzszxB9yjIyjId6tnW7eBKhumQWKo1clTpjTJQ%3D%3D%3A20181012132817%2C54C57AADF598%2C183.93.146.195%2C20181012132817%2C10000100000000050000000002172157%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&amp;icpid=88888888&amp;RTS=1539321955&amp;from=1&amp;hms_devid=3583"
+            "urllist": "http://39.134.134.59:80/wh7f454c46tw416748621_1558866135/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226245/index.m3u8?servicetype=2&amp;icpid=&amp;accounttype=1&amp;limitflux=-1&amp;limitdur=-1&amp;GuardEncType=2&amp;accountinfo=zqLF8NKKMalRDbEO48jdgSqOOpgqV4GIFucTXzTgtUY14SLGemePuzwr0iERpwp3b%2F3dmFfegp8dLLYa9OiLhJUOVq0LrheNEBOLmmGQDsZ04xfDqzszxB9yjIyjId6tnW7eBKhumQWKo1clTpjTJQ%3D%3D%3A20181012132817%2C54C57AADF598%2C183.93.146.195%2C20181012132817%2C10000100000000050000000002172157%2CF35103AE12A41F708C374EF84A9DC456%2C-1%2C1%2C1%2C-1%2C%2C7%2C2201300%2C17%2C%2C4%2CEND&amp;icpid=88888888&amp;RTS=1539321955&amp;from=1&amp;hms_devid=3583"
         },
         {
             "itemid": "uid01",
             "name": "东南卫视",
             "num": "0046",
-            "urllist": "http://gslbserv.itv.cmvideo.cn:80/index.m3u8?channel-id=hnbblive&Contentid=6877196208180525617&livemode=1&stbId=DE4903FF004735100000D071C4EBF186&usergroup=g19073100000&userToken=a560be9434a98db4046e05fbc64dc92b"
+            "urllist": "http://111.40.205.85/wh7f454c46tw2606317267_382686041/PLTV/88888888/224/3221225620/index.m3u8?icpid=88888888&RTS=1557194280&from=0&hms_devid=123,223"
         },
         {
             "itemid": "uid01",
@@ -334,7 +334,7 @@
             "itemid": "uid01",
             "name": "河南卫视",
             "num": "0056",
-            "urllist": "http://cache.ott.bestlive.itv.cmvideo.cn:80/000000001000/7384596500152929578/index.m3u8?channel-id=bestzb&amp;Contentid=7384596500152929578&amp;livemode=1&amp;stbId=004103000002089018289C62AB5E8380&amp;version=1.0&amp;owaccmark=7384596500152929578&amp;owchid=bestzb&amp;owsid=7879911747105487938&amp;AuthInfo=nWG8OErPFI0nRz9eVs3nnAyOOzd1bnDs2rI3OwGw9Bl4RXq8bkje9vPMRq1b3dNkYWTIY4WTqYRiuKsjypsJNwAjdtJbmpNvxrAvKsC7UjqAwOgt1wSiuN4UOHm8M2SR#http://117.156.28.119/270000001111/1110000092/index.m3u8"
+            "urllist": "http://cctvtxyh5c.liveplay.myqcloud.com/wstv/henan_2/index.m3u8"
         },
         {
             "itemid": "uid01",
