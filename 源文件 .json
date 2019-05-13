@@ -496,7 +496,7 @@
             "itemid": "uid01",
             "name": "星空卫视",
             "num": "0083",
-            "urllist": "http://222.207.48.30/hls/startv.m3u8"
+            "urllist": "http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8#http://222.207.48.30/hls/startv.m3u8"
         },
         {
             "itemid": "uid02",
