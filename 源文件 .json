@@ -1316,584 +1316,278 @@
         },
         {
             "itemid": "uid04",
-            "name": "CIBN喜剧影院",
-            "num": "0220",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHSYX/1800/vCIBNHSYX.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN军事",
-            "num": "0221",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNGZJC/1800/vCIBNGZJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN骄阳剧场",
-            "num": "0222",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJDJC/1800/vCIBNJDJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN热播剧场",
-            "num": "0223",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNRBJC/1800/vCIBNRBJC.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN古装剧场",
-            "num": "0224",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNZYPD/1800/vCIBNZYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN综合",
-            "num": "0225",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNXQDPD/1800/vCIBNXQDPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN嗨播",
-            "num": "0226",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYDYYPD/1800/vCIBNYYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN炫佳动漫",
-            "num": "0227",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDMPD/1800/vCIBNDMPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN电影",
-            "num": "0228",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNDYPD/1800/vCIBNDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN钓鱼",
-            "num": "0229",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPDHWXF/1800/vCIBNHWXF.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN汉学院",
-            "num": "0230",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNHXYPD/1800/vCIBNHXYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBNCANTV",
-            "num": "0231",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCHNTV/1800/vCIBNCHNTV.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN财经A",
-            "num": "0232",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNSFYX/1800/vCIBNSFYX.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN财经G",
-            "num": "0233",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCJPD/1800/vCIBNCJPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN第一赛场",
-            "num": "0234",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDSJC/1800/vCIBNDSJC.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN大伽钜惠",
-            "num": "0235",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDKJH/1800/vCIBNDKJH.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN纪录片",
-            "num": "0236",
-            "urllist": "http://gs.hdp.ds.lunbocl.ott.cibntv.net/hls/vCIBNJLPD/1800/vCIBNJLPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN微电影",
-            "num": "0237",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN中国",
-            "num": "0238",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNCWHPD/1800/vCIBNCWHPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBNtea游戏",
-            "num": "0239",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNTEADJ/1800/vCIBNTEADJ.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN汽车",
-            "num": "0240",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNQCPD/1800/vCIBNQCPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN教育",
-            "num": "0241",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNJYPD/1800/vCIBNJYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN流金岁月",
-            "num": "0242",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNSCPD/1800/vCIBNSCPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN好莱坞",
-            "num": "0243",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNHLWPD/1800/vCIBNHLWPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN动作影院",
-            "num": "0244",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNDZYY/1800/vCIBNDZYY.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN真人秀",
-            "num": "0245",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNZRSW/1800/vCIBNZRSW.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN经典剧场",
-            "num": "0246",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNJCJD/1800/vCIBNJCJD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN院线大片",
-            "num": "0247",
-            "urllist": "http://dangbei.ds01.cibn.cc/hls/vCIBNHYPD/1800/vCIBNHYPD.m3u8?md5=b778284c6b5f9fb6f65dfe26a7f3c3ed"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN生活",
-            "num": "0248",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.CIBNtv.net/hls/vCIBNGWPD/1800/vCIBNGWPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN情感影院",
-            "num": "0249",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNQGYY/1800/vCIBNQGYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN精品影院",
-            "num": "0250",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNJPYY/1800/vCIBNJPYY.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "CIBN微电影",
-            "num": "0251",
-            "urllist": "http://gs.moli.ds.lunbocl.ott.cibntv.net/hls/vCIBNWDYPD/1800/vCIBNWDYPD.m3u8?md5=c246ac4e6b6cb88b7f970b530ff04b86"
-        },
-        {
-            "itemid": "uid04",
-            "name": "NewTv超级电视剧",
-            "num": "0252",
-            "urllist": "http://39.135.32.28:6610/000000001000/1000000001000008139/index.m3u8?i=&amp;IASO"
-        },
-        {
-            "itemid": "uid04",
-            "name": "NewTv超级电影",
-            "num": "0253",
-            "urllist": "http://39.135.32.28:6610/000000001000/1000000001000012884/index.m3u8?i=&amp;IASO"
-        },
-        {
-            "itemid": "uid04",
-            "name": "NewTv超级体育",
-            "num": "0254",
-            "urllist": "http://39.135.32.28:6610/000000001000/1000000001000009204/index.m3u8?i=&amp;IASO"
-        },
-        {
-            "itemid": "uid04",
-            "name": "NewTv超级综艺",
-            "num": "0255",
-            "urllist": "http://39.135.32.28:6610/000000001000/1000000001000025771/index.m3u8?i=&amp;IASO"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV军事评论",
-            "num": "0256",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV金牌综艺",
-            "num": "0257",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV精品记录",
-            "num": "0258",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV精品综艺",
-            "num": "0259",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV精品电影",
-            "num": "0260",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV精品大剧",
-            "num": "0261",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV古装剧场",
-            "num": "0262",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV家庭剧场",
-            "num": "0263",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV爱情喜剧",
-            "num": "0264",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV军旅剧场",
-            "num": "0265",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV动作电影",
-            "num": "0266",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV明星大片",
-            "num": "0267",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV海外剧场",
-            "num": "0268",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV惊悚悬疑",
-            "num": "0269",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8"
-        },
-        {
-            "itemid": "uid04",
-            "name": "newTV动画王国",
-            "num": "0270",
-            "urllist": "http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8"
-        },
-        {
-            "itemid": "uid05",
             "name": "中华卫视",
-            "num": "0271",
+            "num": "0220",
             "urllist": "http://pull.kapad.cn/live/test/playlist.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "翡翠台",
-            "num": "0272",
+            "num": "0221",
             "urllist": "http://hls51-o.kascend.com/chushou_live/635e368b56234584bc64ff8422f443c6.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "翡翠台J2",
-            "num": "0273",
+            "num": "0222",
             "urllist": "http://h.kxgkmi.cn/atv/01kjzcom.m3u8#http://zblive.bawangtian.com/live/j2_1000/index.m3u8?uid=o4i5d1Q3WhPICiCagMplcSEDbsaE&amp;t=1556905061&amp;k=9AA1670B34AF1BADA909110182F0EDB9"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "民視新聞",
-            "num": "0274",
+            "num": "0223",
             "urllist": "http://210.61.56.23/hls/ftvtv/index.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "TVBS新聞",
-            "num": "0275",
+            "num": "0224",
             "urllist": "http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "三立新聞",
-            "num": "0276",
+            "num": "0225",
             "urllist": "http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "壹新闻",
-            "num": "0277",
+            "num": "0226",
             "urllist": "http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "寰宇新闻",
-            "num": "0278",
+            "num": "0227",
             "urllist": "http://ms003.happytv.com.tw/live/Btl59TBpbXESUqTf/index.m3u8#http://ms003.happytv.com.tw/live/Btl59TBpbXESUqTf/index.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "寰宇新闻2台",
-            "num": "0279",
+            "num": "0228",
             "urllist": "http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8#http://ms003.happytv.com.tw/live/z8bCZRy7IjD8Nyrm/index.m3u8?token=vg7VrxRKxQKxmzSMguz_sg&amp;time=1554518626136"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "天映频道",
-            "num": "0280",
+            "num": "0229",
             "urllist": "http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "無綫財經資訊台",
-            "num": "0281",
+            "num": "0230",
             "urllist": "http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist_w1412641159_b448000.m3u8#http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "东森洋片",
-            "num": "0282",
+            "num": "0231",
             "urllist": "http://pull-l3-xg.ixigua.com/live/ch0002.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "空中英语",
-            "num": "0283",
+            "num": "0232",
             "urllist": "http://220.158.149.14:9999/live/TV00000000000000000077@HHZT;LIVE"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "CNEX紀實頻道",
-            "num": "0284",
+            "num": "0233",
             "urllist": "http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "HBO中文電影",
-            "num": "0285",
+            "num": "0234",
             "urllist": "http://218.202.220.2:5000/nn_live.m3u8?id=HBO"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "國會頻道1",
-            "num": "0286",
+            "num": "0235",
             "urllist": "http://60.199.188.61/HLS/Congress1/index.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "國會頻道2",
-            "num": "0287",
+            "num": "0236",
             "urllist": "http://60.199.188.61/HLS/Congress2/index.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "石狮电视台",
-            "num": "0288",
+            "num": "0237",
             "urllist": "http://218.5.112.180:88/live/dssl/playlist.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "香港开電視台",
-            "num": "0289",
+            "num": "0238",
             "urllist": "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "鳳凰香港台",
-            "num": "0290",
+            "num": "0239",
             "urllist": "http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "鳳凰資訊",
-            "num": "0291",
+            "num": "0240",
             "urllist": "http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "天映经典",
-            "num": "0292",
+            "num": "0241",
             "urllist": "http://50.7.161.82:8278/Celestial2/playlist.m3u8?tid=m02000000000015876456&amp;ct=17975&amp;tsum=7983c92efc68efb3d97bdef4e37a8452"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "卫视点心",
-            "num": "0293",
+            "num": "0242",
             "urllist": "http://220.158.149.14:9999/live/TV00000000000000000035@HHZT;LIVE"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "龙华电影",
-            "num": "0294",
+            "num": "0243",
             "urllist": "http://ms006.happytv.com.tw:80/live/xm80UCshgLnL4f0y/index.m3u8#http://ms006.happytv.com.tw/live/xm80UCshgLnL4f0y/index.m3u8?token=c9JZiuKdZjWetb9TuWFZvg&amp;time=1554530036919"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "龙华日韩",
-            "num": "0295",
+            "num": "0244",
             "urllist": "http://ms006.happytv.com.tw:80/live/51puauUecCarOzug/index.m3u8#http://ms006.happytv.com.tw/live/51puauUecCarOzug/index.m3u8?token=sXdnr7TrwoteozOuSE0VgQ&amp;time=1554530058242"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "龙华偶像",
-            "num": "0296",
+            "num": "0245",
             "urllist": "http://ms006.happytv.com.tw:80/live/jluCtnqIsVG31tpb/index.m3u8#http://ms006.happytv.com.tw/live/jluCtnqIsVG31tpb/index.m3u8?token=ju530-kHHWuKLJKGDmJB2A&amp;time=1554530150195"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "新唐人中国台",
-            "num": "0297",
+            "num": "0246",
             "urllist": "http://live2.ntdimg.com/cnlive/playlist.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "新华社中文",
-            "num": "0298",
+            "num": "0247",
             "urllist": "http://live.xinhuashixun.com/live/chn01/desc.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "江苏靓妆",
-            "num": "0299",
+            "num": "0248",
             "urllist": "http://39.135.16.142:6060/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "优视",
-            "num": "0300",
+            "num": "0249",
             "urllist": "http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "GOODTV-1",
-            "num": "0301",
+            "num": "0250",
             "urllist": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "GOODTV-2",
-            "num": "0302",
+            "num": "0251",
             "urllist": "http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京教科",
-            "num": "0303",
+            "num": "0252",
             "urllist": "http://live.nbs.cn/channels/njtv/jkpd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京少儿",
-            "num": "0304",
+            "num": "0253",
             "urllist": "http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京生活",
-            "num": "0305",
+            "num": "0254",
             "urllist": "http://live.nbs.cn/channels/njtv/shpd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京十八",
-            "num": "0306",
+            "num": "0255",
             "urllist": "http://live.nbs.cn/channels/njtv/sbpd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京新闻综合",
-            "num": "0307",
+            "num": "0256",
             "urllist": "http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京信息",
-            "num": "0308",
+            "num": "0257",
             "urllist": "http://live.nbs.cn/channels/njtv/xxpd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京影视",
-            "num": "0309",
+            "num": "0258",
             "urllist": "http://live.nbs.cn/channels/njtv/yspd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "南京娱乐",
-            "num": "0310",
+            "num": "0259",
             "urllist": "http://live.nbs.cn/channels/njtv/ylpd/m3u8:500k/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "徐州-1",
-            "num": "0311",
+            "num": "0260",
             "urllist": "http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225945/index.m3u8#http://stream1.huaihai.tv/xwzh/sd/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "徐州-2",
-            "num": "0312",
+            "num": "0261",
             "urllist": "http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8#http://stream1.huaihai.tv/jjsh/sd/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "徐州-3",
-            "num": "0313",
+            "num": "0262",
             "urllist": "http://223.110.245.151/ott.js.chinamobile.com/PLTV/3/224/3221225949/index.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "徐州-4",
-            "num": "0314",
+            "num": "0263",
             "urllist": "http://stream1.huaihai.tv/ggpd/sd/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "邳州综合",
-            "num": "0315",
+            "num": "0264",
             "urllist": "http://stream.pznews.com/pztv2/sd/live.m3u8"
         },
         {
-            "itemid": "uid05",
+            "itemid": "uid04",
             "name": "邳州综艺",
-            "num": "0316",
+            "num": "0265",
             "urllist": "http://stream.pznews.com/pztv1/sd/live.m3u8"
         }
     ],
@@ -1916,10 +1610,6 @@
         },
         {
             "id": "uid04",
-            "name": "CIBN-Newtv"
-        },
-        {
-            "id": "uid05",
             "name": "测试频道"
         }
     ]
